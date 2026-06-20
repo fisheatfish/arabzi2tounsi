@@ -33,8 +33,8 @@ args = SFTConfig(
     eval_strategy="epoch",
     save_strategy="epoch",
     load_best_model_at_end=True,
-    max_seq_length=128,  # nos exemples sont courts, inutile d'aller plus loin
-    fp16=True,           # passer à bf16=True sur A100
+    max_length=128,  # nos exemples sont courts, inutile d'aller plus loin
+    fp16=True,       # passer à bf16=True sur A100 (bf16=True est le défaut dans TRL récent)
     report_to="none",
 )
 
