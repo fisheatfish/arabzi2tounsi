@@ -1,0 +1,14 @@
+[project]
+name = "arabzi2tounsi"
+version = "0.1.0"
+description = "Translittération du tunisien Arabizi vers le script arabe via SFT"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.3",
+    "transformers>=4.45",
+    "datasets>=2.20",
+    "peft>=0.12",
+    "trl>=0.11",
+    "accelerate>=0.34",
+]
