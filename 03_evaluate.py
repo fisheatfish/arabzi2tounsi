@@ -3,6 +3,23 @@ import torch
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
+
+def cer(reference, hypothesis):
+    """Character Error Rate = edit distance / longueur de la référence."""
+    r, h = list(reference), list(hypothesis)
+    d = [[0] * (len(h) + 1) for _ in range(len(r) + 1)]
+    for i in range(len(r) + 1):
+        d[i][0] = i
+    for j in range(len(h) + 1):
+        d[0][j] = j
+    for i in range(1, len(r) + 1):
+        for j in range(1, len(h) + 1):
+            if r[i - 1] == h[j - 1]:
+                d[i][j] = d[i - 1][j - 1]
+            else:
+                d[i][j] = 1 + min(d[i - 1][j], d[i][j - 1], d[i - 1][j - 1])
+    return d[len(r)][len(h)] / max(len(r), 1)
+
 MODEL_ID = "HuggingFaceTB/SmolLM2-360M-Instruct"
 ADAPTER_PATH = "output/final"
 
@@ -49,14 +66,25 @@ ft_model.eval()
 for i, ex in enumerate(test_data):
     results[i]["ft"] = generate(ft_model, ex["messages"])
 
-# Affichage
-print(f"\n{'INPUT':<25} {'RÉFÉRENCE':<20} {'BASE':<25} {'FINE-TUNÉ':<25}")
-print("-" * 95)
+# Calcul des métriques
 for r in results:
-    print(f"{r['input']:<25} {r['reference']:<20} {r['base']:<25} {r['ft']:<25}")
+    r["cer_base"] = cer(r["reference"], r["base"])
+    r["cer_ft"] = cer(r["reference"], r["ft"])
 
+# Affichage par exemple
+print(f"\n{'INPUT':<25} {'RÉFÉRENCE':<20} {'BASE':<25} {'FINE-TUNÉ':<25} {'CER base':>9} {'CER ft':>7}")
+print("-" * 115)
+for r in results:
+    print(
+        f"{r['input']:<25} {r['reference']:<20} {r['base']:<25} {r['ft']:<25}"
+        f" {r['cer_base']:>9.2f} {r['cer_ft']:>7.2f}"
+    )
+
+n = len(results)
 exact_base = sum(r["base"] == r["reference"] for r in results)
 exact_ft = sum(r["ft"] == r["reference"] for r in results)
-n = len(results)
+avg_cer_base = sum(r["cer_base"] for r in results) / n
+avg_cer_ft = sum(r["cer_ft"] for r in results) / n
 
-print(f"\nExact match — Base : {exact_base}/{n} | Fine-tuné : {exact_ft}/{n}")
+print(f"\nExact match — Base : {exact_base}/{n}  |  Fine-tuné : {exact_ft}/{n}")
+print(f"CER moyen  — Base : {avg_cer_base:.2f}  |  Fine-tuné : {avg_cer_ft:.2f}  (0 = parfait, 1+ = mauvais)")
