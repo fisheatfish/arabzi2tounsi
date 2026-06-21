@@ -1,299 +1,1057 @@
-{"input":"sbeh el khir","output":"صباح الخير"}
-{"input":"labes","output":"لاباس"}
-{"input":"chnowa akhbarik","output":"شنوة أخبارك"}
-{"input":"winta jey","output":"وينتا جاي"}
-{"input":"tawa nji","output":"توا نجي"}
-{"input":"ya3tik essa7a","output":"يعطيك الصحة"}
-{"input":"bara barsha","output":"برا برشا"}
-{"input":"hedha mzyen","output":"هذا مزيان"}
-{"input":"mouch mzyen","output":"موش مزيان"}
-{"input":"nheb nrou7","output":"نحب نروح"}
-{"input":"3andi barcha khdma","output":"عندي برشا خدمة"}
-{"input":"5ouya fel dar","output":"خويا في الدار"}
-{"input":"7abbit nji","output":"حبيت نجي"}
-{"input":"ma3neha s7i7","output":"معناها صحيح"}
-{"input":"bch nji ba3d","output":"باش نجي بعد"}
-{"input":"el youm","output":"اليوم"}
-{"input":"fi'dar","output":"في الدار"}
-{"input":"nheb n3awnk","output":"نحب نعاونك"}
-{"input":"chnowa rayek","output":"شنوة رأيك"}
-{"input":"ana m3ak","output":"أنا معاك"}
-{"input":"houni","output":"هوني"}
-{"input":"ba3d el 3chiya","output":"بعد العشية"}
-{"input":"mta3 el youm","output":"متاع اليوم"}
-{"input":"ma fama chay","output":"ما فما شي"}
-{"input":"kol chay labes","output":"كل شي لاباس"}
-{"input":"nrou7 tawa","output":"نروح توا"}
-{"input":"kifeh 7alek","output":"كيفاش حالك"}
-{"input":"t7eb nji m3ak","output":"تحب نجي معاك"}
-{"input":"nheb n9ra","output":"نحب نقرا"}
-{"input":"ma nhebch","output":"ما نحبش"}
-{"input":"3lach le","output":"علاش لا"}
-{"input":"barka","output":"بركة"}
-{"input":"hadhika","output":"هذيكة"}
-{"input":"hedhi","output":"هاذي"}
-{"input":"mnin jey","output":"منين جاي"}
-{"input":"nchouf ba3d","output":"نشوف بعد"}
-{"input":"s3ib barcha","output":"صعيب برشا"}
-{"input":"sahl","output":"ساهل"}
-{"input":"mazel","output":"مازال"}
-{"input":"el wa9t","output":"الوقت"}
-{"input":"n9ollek","output":"نقولك"}
-{"input":"fiha khir","output":"فيها خير"}
-{"input":"ma 3andi hata chay","output":"ما عندي حتى شي"}
-{"input":"nheb n7ki","output":"نحب نحكي"}
-{"input":"chwaya chwaya","output":"شوية شوية"}
-{"input":"tawa walla","output":"توا والله"}
-{"input":"raw","output":"راهو"}
-{"input":"9rib","output":"قريب"}
-{"input":"ba3id","output":"بعيد"}
-{"input":"m3a ba3d","output":"مع بعض"}
-{"input":"n9addem","output":"نقدم"}
-{"input":"n3awd","output":"نعاود"}
-{"input":"n3ich","output":"نعيش"}
-{"input":"t7eb tji","output":"تحب تجي"}
-{"input":"7atta haja","output":"حتى حاجة"}
-{"input":"ma n7ebch nji","output":"ما نحبش نجي"}
-{"input":"3andek wa9t","output":"عندك وقت"}
-{"input":"3andha","output":"عندها"}
-{"input":"3andhom","output":"عندهم"}
-{"input":"n7eb nsm3","output":"نحب نسمع"}
-{"input":"klem s7i7","output":"كلام صحيح"}
-{"input":"nheb n9ra mli7","output":"نحب نقرا مليح"}
-{"input":"tawa barka","output":"توا بركة"}
-{"input":"lile","output":"ليلة"}
-{"input":"nhar","output":"نهار"}
-{"input":"saret","output":"صارت"}
-{"input":"saretli","output":"صارتلي"}
-{"input":"nchallah","output":"إن شاء الله"}
-{"input":"inshallah","output":"إن شاء الله"}
-{"input":"bch nebda","output":"باش نبدا"}
-{"input":"bdina","output":"بدينا"}
-{"input":"khalina","output":"خلينا"}
-{"input":"habbat","output":"حبت"}
-{"input":"n9oul","output":"نقول"}
-{"input":"n9oulek","output":"نقولك"}
-{"input":"ma n9oulch","output":"ما نقولش"}
-{"input":"nheb n7ot","output":"نحب نحط"}
-{"input":"houna","output":"هنا"}
-{"input":"barra","output":"برا"}
-{"input":"twa9et","output":"تواقت"}
-{"input":"mabrouk","output":"مبروك"}
-{"input":"a3tini","output":"عطيني"}
-{"input":"3awnni","output":"عاونني"}
-{"input":"nchoufek ba3d","output":"نشوفك بعد"}
-{"input":"mchet","output":"مشت"}
-{"input":"jeyya","output":"جاية"}
-{"input":"b9it","output":"بقيت"}
-{"input":"7attit","output":"حطيت"}
-{"input":"ma3andich","output":"ما عنديش"}
-{"input":"n3ref","output":"نعرف"}
-{"input":"ma n3refch","output":"ما نعرفش"}
-{"input":"nheb n7ot s7i7","output":"نحب نحط صحيح"}
-{"input":"el mawdo3","output":"الموضوع"}
-{"input":"nheb nssob","output":"نحب نصوب"}
-{"input":"jey mn be3id","output":"جاي من بعيد"}
-{"input":"7ouma","output":"حومة"}
-{"input":"lbar7","output":"البارح"}
-{"input":"ghodwa","output":"غدوة"}
-{"input":"tounes","output":"تونس"}
-{"input":"ahla w sahla","output":"أهلا وسهلا"}
-{"input":"mar7be bik","output":"مرحبا بيك"}
-{"input":"kifek el youm","output":"كيفك اليوم"}
-{"input":"ana behi","output":"أنا باهي"}
-{"input":"enti behi","output":"إنتي باهي"}
-{"input":"kolou behi","output":"الكل باهي"}
-{"input":"elbess 3ليك","output":"لاباس عليك"}
-{"input":"rani houni","output":"راني هوني"}
-{"input":"rani jay","output":"راني جاي"}
-{"input":"rani mechy","output":"راني ماشي"}
-{"input":"winek taw","output":"وينك توة"}
-{"input":"winti taw","output":"وينتي توة"}
-{"input":"winhom","output":"وينهم"}
-{"input":"winhom lkol","output":"وينهم الكل"}
-{"input":"ta3ala houni","output":"تعالى هوني"}
-{"input":"ok3ed houni","output":"أقعد هوني"}
-{"input":"emchi tawa","output":"امشي توة"}
-{"input":"erja3 ghodwa","output":"ارجع غدوة"}
-{"input":"ekhdem mli7","output":"اخدم مليح"}
-{"input":"esm3 klemi","output":"اسمع كلامي"}
-{"input":"efhem 3ليا","output":"افهم عليا"}
-{"input":"ma tfare9ch","output":"ما تفارقش"}
-{"input":"ma tet2akherch","output":"ما تتأخرش"}
-{"input":"ma tnassech","output":"ما تنساش"}
-{"input":"ma tkhafch","output":"ما تخافش"}
-{"input":"ma تستحقch","output":"ما تستحقش"}
-{"input":"netsawer ba3d","output":"نتصور بعد"}
-{"input":"netkalmou ba3d","output":"نتكلموا بعد"}
-{"input":"nhkiw chwaya","output":"نحكيو شوية"}
-{"input":"nethakou chwaya","output":"نضحكوا شوية"}
-{"input":"dima haka","output":"ديما هكا"}
-{"input":"dima m3ak","output":"ديما معاك"}
-{"input":"dima behi","output":"ديما باهي"}
-{"input":"mella jaw","output":"ملا جو"}
-{"input":"mella youm","output":"ملا يوم"}
-{"input":"mella wa9t","output":"ملا وقت"}
-{"input":"yesser behi","output":"ياسر باهي"}
-{"input":"yesser s3ib","output":"ياسر صعيب"}
-{"input":"yesser sahl","output":"ياسر ساهل"}
-{"input":"chwaya wa9t","output":"شوية وقت"}
-{"input":"chwaya sabr","output":"شوية صبر"}
-{"input":"chwaya khdma","output":"شوية خدمة"}
-{"input":"kol youm","output":"كل يوم"}
-{"input":"kol nhar","output":"كل نهار"}
-{"input":"kol mara","output":"كل مرة"}
-{"input":"kol wa9t","output":"كل وقت"}
-{"input":"kol chay wadh7","output":"كل شي واضح"}
-{"input":"kol chay sahl","output":"كل شي ساهل"}
-{"input":"kol chay mouchkil","output":"كل شي مشكل"}
-{"input":"fama wa9t","output":"فما وقت"}
-{"input":"fama blasa","output":"فما بلاصة"}
-{"input":"fama tari9","output":"فما طريق"}
-{"input":"fama amal","output":"فما أمل"}
-{"input":"ma famech wa9t","output":"ما فاماش وقت"}
-{"input":"ma famech tari9","output":"ما فاماش طريق"}
-{"input":"ma famech mochkla","output":"ما فاماش مشكلة"}
-{"input":"ma famech 7al","output":"ما فاماش حل"}
-{"input":"barcha nes","output":"برشا ناس"}
-{"input":"barcha klam","output":"برشا كلام"}
-{"input":"barcha sou2el","output":"برشا سؤال"}
-{"input":"barcha dh7ek","output":"برشا ضحك"}
-{"input":"barcha 7keya","output":"برشا حكاية"}
-{"input":"9bal chwaya","output":"قبل شوية"}
-{"input":"9bal wa9t","output":"قبل وقت"}
-{"input":"9bal el 3chiya","output":"قبل العشية"}
-{"input":"ba3d chwaya","output":"بعد شوية"}
-{"input":"ba3d wa9t","output":"بعد وقت"}
-{"input":"ba3d lila","output":"بعد ليلة"}
-{"input":"fil sbeh","output":"في الصباح"}
-{"input":"fil 3chiya","output":"في العشية"}
-{"input":"fil lil","output":"في الليل"}
-{"input":"fil dar","output":"في الدار"}
-{"input":"fil tri9","output":"في الطريق"}
-{"input":"fil sou9","output":"في السوق"}
-{"input":"fil 7ouma","output":"في الحومة"}
-{"input":"ta7t eddar","output":"تحت الدار"}
-{"input":"fo9 essath","output":"فوق السطح"}
-{"input":"9odem el bab","output":"قدام الباب"}
-{"input":"wara el bab","output":"ورى الباب"}
-{"input":"7dheya","output":"حذايا"}
-{"input":"7dhak","output":"حذاك"}
-{"input":"7dhehom","output":"حذاهم"}
-{"input":"m3aya","output":"معايا"}
-{"input":"m3ak enti","output":"معاك إنتي"}
-{"input":"m3ah houwa","output":"معاه هو"}
-{"input":"m3aha hia","output":"معاها هي"}
-{"input":"m3ahom lkol","output":"معاهم الكل"}
-{"input":"liya ana","output":"ليا أنا"}
-{"input":"lik enti","output":"ليك إنتي"}
-{"input":"lih houwa","output":"ليه هو"}
-{"input":"liha hia","output":"ليها هي"}
-{"input":"lihom lkol","output":"ليهم الكل"}
-{"input":"nheb nekel","output":"نحب ناكل"}
-{"input":"nheb nochrob","output":"نحب نشرب"}
-{"input":"nheb nor9ed","output":"نحب نرقد"}
-{"input":"nheb nemchi","output":"نحب نمشي"}
-{"input":"nheb nerga3","output":"نحب نرجع"}
-{"input":"nheb nshouf","output":"نحب نشوف"}
-{"input":"nheb nefhem","output":"نحب نفهم"}
-{"input":"nheb net3allem","output":"نحب نتعلم"}
-{"input":"nheb netdhakkar","output":"نحب نتذكر"}
-{"input":"nheb nensa","output":"نحب ننسى"}
-{"input":"nheb nerte7","output":"نحب نرتاح"}
-{"input":"nheb nsa3ed","output":"نحب نساعد"}
-{"input":"nheb nsa2el","output":"نحب نسأل"}
-{"input":"nheb njeweb","output":"نحب نجاوب"}
-{"input":"nheb n3awed","output":"نحب نعاود"}
-{"input":"nheb n9oul s7i7","output":"نحب نقول صحيح"}
-{"input":"ma nhebch nemchi","output":"ما نحبش نمشي"}
-{"input":"ma nhebch nor9ed","output":"ما نحبش نرقد"}
-{"input":"ma nhebch nekel","output":"ما نحبش ناكل"}
-{"input":"ma nhebch nochrob","output":"ما نحبش نشرب"}
-{"input":"ma nhebch net2akher","output":"ما نحبش نتأخر"}
-{"input":"ma nhebch nensa","output":"ما نحبش ننسى"}
-{"input":"ma nhebch nkhasser","output":"ما نحبش نخسر"}
-{"input":"ma nhebch nkhalet","output":"ما نحبش نغلط"}
-{"input":"t7eb tekel","output":"تحب تاكل"}
-{"input":"t7eb tochrob","output":"تحب تشرب"}
-{"input":"t7eb tor9ed","output":"تحب ترقد"}
-{"input":"t7eb temchi","output":"تحب تمشي"}
-{"input":"t7eb ترجع","output":"تحب ترجع"}
-{"input":"t7eb tchouf","output":"تحب تشوف"}
-{"input":"t7eb tefhem","output":"تحب تفهم"}
-{"input":"t7eb تتعلم","output":"تحب تتعلم"}
-{"input":"t7eb tethakker","output":"تحب تتذكر"}
-{"input":"t7eb tensa","output":"تحب تنسى"}
-{"input":"3andi jou3","output":"عندي جوع"}
-{"input":"3andi 3tache","output":"عندي عطش"}
-{"input":"3andi noum","output":"عندي نوم"}
-{"input":"3andi wa9t taw","output":"عندي وقت توة"}
-{"input":"3andi sou2el sghir","output":"عندي سؤال صغير"}
-{"input":"3andi fikra","output":"عندي فكرة"}
-{"input":"3andi chkoun","output":"عندي شكون"}
-{"input":"3andi 7aja","output":"عندي حاجة"}
-{"input":"3andek 7a9","output":"عندك حق"}
-{"input":"3andek ghalet","output":"عندك غالط"}
-{"input":"3andek wa9t tawa","output":"عندك وقت توة"}
-{"input":"3andek sou2el","output":"عندك سؤال"}
-{"input":"3andek fikra","output":"عندك فكرة"}
-{"input":"3andou l7a9","output":"عندو الحق"}
-{"input":"3andha l7a9","output":"عندها الحق"}
-{"input":"ma3andich wa9t","output":"ما عنديش وقت"}
-{"input":"ma3andich flous","output":"ما عنديش فلوس"}
-{"input":"ma3andich jou3","output":"ما عنديش جوع"}
-{"input":"ma3andich noum","output":"ما عنديش نوم"}
-{"input":"ma3andich fekra","output":"ما عنديش فكرة"}
-{"input":"ma3andich jawab","output":"ما عنديش جواب"}
-{"input":"ma3andekch 7a9","output":"ما عندكش حق"}
-{"input":"ma3andekch wa9t","output":"ما عندكش وقت"}
-{"input":"ma3andekch sou2el","output":"ما عندكش سؤال"}
-{"input":"s7i7 hedha","output":"صحيح هذا"}
-{"input":"s7i7 barcha","output":"صحيح برشا"}
-{"input":"ghalet hedha","output":"غلط هذا"}
-{"input":"ghalet barcha","output":"غلط برشا"}
-{"input":"moch s7i7","output":"موش صحيح"}
-{"input":"moch ghalet","output":"موش غلط"}
-{"input":"sahla barcha","output":"ساهلة برشا"}
-{"input":"s3iba barcha","output":"صعيبة برشا"}
-{"input":"wadh7a barcha","output":"واضحة برشا"}
-{"input":"ghamdha barcha","output":"غامضة برشا"}
-{"input":"behi barcha","output":"باهي برشا"}
-{"input":"khayeb barcha","output":"خايب برشا"}
-{"input":"7لو barcha","output":"حلو برشا"}
-{"input":"9wi barcha","output":"قوي برشا"}
-{"input":"dha3if barcha","output":"ضعيف برشا"}
-{"input":"taw nefhem","output":"توة نفهم"}
-{"input":"taw njiwek","output":"توة نجاوبك"}
-{"input":"taw nchouf","output":"توة نشوف"}
-{"input":"taw n9ollek","output":"توة نقولك"}
-{"input":"taw netfakker","output":"توة نتفكر"}
-{"input":"ghodwa nchouf","output":"غدوة نشوف"}
-{"input":"ghodwa n9ollek","output":"غدوة نقولك"}
-{"input":"ghodwa nji","output":"غدوة نجي"}
-{"input":"ghodwa nemchi","output":"غدوة نمشي"}
-{"input":"lbar7 mchit","output":"البارح مشيت"}
-{"input":"lbar7 jit","output":"البارح جيت"}
-{"input":"lbar7 choftou","output":"البارح شفتو"}
-{"input":"lbar7 sma3tou","output":"البارح سمعتو"}
-{"input":"tawa fhemt","output":"توة فهمت"}
-{"input":"tawa dhakkart","output":"توة تذكرت"}
-{"input":"tawa nseet","output":"توة نسيت"}
-{"input":"mriguel barcha","output":"مريقل برشا"}
-{"input":"mnadhem barcha","output":"منظم برشا"}
-{"input":"mfassakh barcha","output":"مفسخ برشا"}
-{"input":"mrattab barcha","output":"مرتب برشا"}
-{"input":"mela7er","output":"ملا خير"}
-{"input":"saha lik","output":"صحة ليك"}
-{"input":"allah ybarek","output":"الله يبارك"}
-{"input":"rabbi m3ak","output":"ربي معاك"}
-{"input":"rabbi y3inek","output":"ربي يعينك"}
-{"input":"rabbi ysehel","output":"ربي يسهل"}
-{"input":"rabbi yfarrej","output":"ربي يفرج"}
-{"input":"inchallah labes","output":"إن شاء الله لاباس"}
-{"input":"inchallah khir","output":"إن شاء الله خير"}
-{"input":"inchallah sahl","output":"إن شاء الله ساهل"}
-{"input":"ya latif","output":"يا لطيف"}
-{"input":"ya hasra","output":"يا حسرة"}
-{"input":"ya salam","output":"يا سلام"}
-{"input":"ya khsara","output":"يا خسارة"}
-{"input":"ya 7lil","output":"يا حليل"}
+{"input": "sbeh el khir", "output": "صباح الخير"}
+{"input": "labes", "output": "لاباس"}
+{"input": "chnowa akhbarik", "output": "شنوة أخبارك"}
+{"input": "winta jey", "output": "وينتا جاي"}
+{"input": "tawa nji", "output": "توا نجي"}
+{"input": "ya3tik essa7a", "output": "يعطيك الصحة"}
+{"input": "bara barsha", "output": "برا برشا"}
+{"input": "hedha mzyen", "output": "هذا مزيان"}
+{"input": "mouch mzyen", "output": "موش مزيان"}
+{"input": "nheb nrou7", "output": "نحب نروح"}
+{"input": "3andi barcha khdma", "output": "عندي برشا خدمة"}
+{"input": "5ouya fel dar", "output": "خويا في الدار"}
+{"input": "7abbit nji", "output": "حبيت نجي"}
+{"input": "ma3neha s7i7", "output": "معناها صحيح"}
+{"input": "bch nji ba3d", "output": "باش نجي بعد"}
+{"input": "el youm", "output": "اليوم"}
+{"input": "fi'dar", "output": "في الدار"}
+{"input": "nheb n3awnk", "output": "نحب نعاونك"}
+{"input": "chnowa rayek", "output": "شنوة رأيك"}
+{"input": "ana m3ak", "output": "أنا معاك"}
+{"input": "houni", "output": "هوني"}
+{"input": "ba3d el 3chiya", "output": "بعد العشية"}
+{"input": "mta3 el youm", "output": "متاع اليوم"}
+{"input": "ma fama chay", "output": "ما فما شي"}
+{"input": "kol chay labes", "output": "كل شي لاباس"}
+{"input": "nrou7 tawa", "output": "نروح توا"}
+{"input": "kifeh 7alek", "output": "كيفاش حالك"}
+{"input": "t7eb nji m3ak", "output": "تحب نجي معاك"}
+{"input": "nheb n9ra", "output": "نحب نقرا"}
+{"input": "ma nhebch", "output": "ما نحبش"}
+{"input": "3lach le", "output": "علاش لا"}
+{"input": "barka", "output": "بركة"}
+{"input": "hadhika", "output": "هذيكة"}
+{"input": "hedhi", "output": "هاذي"}
+{"input": "mnin jey", "output": "منين جاي"}
+{"input": "nchouf ba3d", "output": "نشوف بعد"}
+{"input": "s3ib barcha", "output": "صعيب برشا"}
+{"input": "sahl", "output": "ساهل"}
+{"input": "mazel", "output": "مازال"}
+{"input": "el wa9t", "output": "الوقت"}
+{"input": "n9ollek", "output": "نقولك"}
+{"input": "fiha khir", "output": "فيها خير"}
+{"input": "ma 3andi hata chay", "output": "ما عندي حتى شي"}
+{"input": "nheb n7ki", "output": "نحب نحكي"}
+{"input": "chwaya chwaya", "output": "شوية شوية"}
+{"input": "tawa walla", "output": "توا والله"}
+{"input": "raw", "output": "راهو"}
+{"input": "9rib", "output": "قريب"}
+{"input": "ba3id", "output": "بعيد"}
+{"input": "m3a ba3d", "output": "مع بعض"}
+{"input": "n9addem", "output": "نقدم"}
+{"input": "n3awd", "output": "نعاود"}
+{"input": "n3ich", "output": "نعيش"}
+{"input": "t7eb tji", "output": "تحب تجي"}
+{"input": "7atta haja", "output": "حتى حاجة"}
+{"input": "ma n7ebch nji", "output": "ما نحبش نجي"}
+{"input": "3andek wa9t", "output": "عندك وقت"}
+{"input": "3andha", "output": "عندها"}
+{"input": "3andhom", "output": "عندهم"}
+{"input": "n7eb nsm3", "output": "نحب نسمع"}
+{"input": "klem s7i7", "output": "كلام صحيح"}
+{"input": "nheb n9ra mli7", "output": "نحب نقرا مليح"}
+{"input": "tawa barka", "output": "توا بركة"}
+{"input": "lile", "output": "ليلة"}
+{"input": "nhar", "output": "نهار"}
+{"input": "saret", "output": "صارت"}
+{"input": "saretli", "output": "صارتلي"}
+{"input": "nchallah", "output": "إن شاء الله"}
+{"input": "inshallah", "output": "إن شاء الله"}
+{"input": "bch nebda", "output": "باش نبدا"}
+{"input": "bdina", "output": "بدينا"}
+{"input": "khalina", "output": "خلينا"}
+{"input": "habbat", "output": "حبت"}
+{"input": "n9oul", "output": "نقول"}
+{"input": "n9oulek", "output": "نقولك"}
+{"input": "ma n9oulch", "output": "ما نقولش"}
+{"input": "nheb n7ot", "output": "نحب نحط"}
+{"input": "houna", "output": "هنا"}
+{"input": "barra", "output": "برا"}
+{"input": "twa9et", "output": "تواقت"}
+{"input": "mabrouk", "output": "مبروك"}
+{"input": "a3tini", "output": "عطيني"}
+{"input": "3awnni", "output": "عاونني"}
+{"input": "nchoufek ba3d", "output": "نشوفك بعد"}
+{"input": "mchet", "output": "مشت"}
+{"input": "jeyya", "output": "جاية"}
+{"input": "b9it", "output": "بقيت"}
+{"input": "7attit", "output": "حطيت"}
+{"input": "ma3andich", "output": "ما عنديش"}
+{"input": "n3ref", "output": "نعرف"}
+{"input": "ma n3refch", "output": "ما نعرفش"}
+{"input": "nheb n7ot s7i7", "output": "نحب نحط صحيح"}
+{"input": "el mawdo3", "output": "الموضوع"}
+{"input": "nheb nssob", "output": "نحب نصوب"}
+{"input": "jey mn be3id", "output": "جاي من بعيد"}
+{"input": "7ouma", "output": "حومة"}
+{"input": "lbar7", "output": "البارح"}
+{"input": "ghodwa", "output": "غدوة"}
+{"input": "tounes", "output": "تونس"}
+{"input": "ahla w sahla", "output": "أهلا وسهلا"}
+{"input": "mar7be bik", "output": "مرحبا بيك"}
+{"input": "kifek el youm", "output": "كيفك اليوم"}
+{"input": "ana behi", "output": "أنا باهي"}
+{"input": "enti behi", "output": "إنتي باهي"}
+{"input": "kolou behi", "output": "الكل باهي"}
+{"input": "elbess 3ليك", "output": "لاباس عليك"}
+{"input": "rani houni", "output": "راني هوني"}
+{"input": "rani jay", "output": "راني جاي"}
+{"input": "rani mechy", "output": "راني ماشي"}
+{"input": "winek taw", "output": "وينك توة"}
+{"input": "winti taw", "output": "وينتي توة"}
+{"input": "winhom", "output": "وينهم"}
+{"input": "winhom lkol", "output": "وينهم الكل"}
+{"input": "ta3ala houni", "output": "تعالى هوني"}
+{"input": "ok3ed houni", "output": "أقعد هوني"}
+{"input": "emchi tawa", "output": "امشي توة"}
+{"input": "erja3 ghodwa", "output": "ارجع غدوة"}
+{"input": "ekhdem mli7", "output": "اخدم مليح"}
+{"input": "esm3 klemi", "output": "اسمع كلامي"}
+{"input": "efhem 3ليا", "output": "افهم عليا"}
+{"input": "ma tfare9ch", "output": "ما تفارقش"}
+{"input": "ma tet2akherch", "output": "ما تتأخرش"}
+{"input": "ma tnassech", "output": "ما تنساش"}
+{"input": "ma tkhafch", "output": "ما تخافش"}
+{"input": "ma تستحقch", "output": "ما تستحقش"}
+{"input": "netsawer ba3d", "output": "نتصور بعد"}
+{"input": "netkalmou ba3d", "output": "نتكلموا بعد"}
+{"input": "nhkiw chwaya", "output": "نحكيو شوية"}
+{"input": "nethakou chwaya", "output": "نضحكوا شوية"}
+{"input": "dima haka", "output": "ديما هكا"}
+{"input": "dima m3ak", "output": "ديما معاك"}
+{"input": "dima behi", "output": "ديما باهي"}
+{"input": "mella jaw", "output": "ملا جو"}
+{"input": "mella youm", "output": "ملا يوم"}
+{"input": "mella wa9t", "output": "ملا وقت"}
+{"input": "yesser behi", "output": "ياسر باهي"}
+{"input": "yesser s3ib", "output": "ياسر صعيب"}
+{"input": "yesser sahl", "output": "ياسر ساهل"}
+{"input": "chwaya wa9t", "output": "شوية وقت"}
+{"input": "chwaya sabr", "output": "شوية صبر"}
+{"input": "chwaya khdma", "output": "شوية خدمة"}
+{"input": "kol youm", "output": "كل يوم"}
+{"input": "kol nhar", "output": "كل نهار"}
+{"input": "kol mara", "output": "كل مرة"}
+{"input": "kol wa9t", "output": "كل وقت"}
+{"input": "kol chay wadh7", "output": "كل شي واضح"}
+{"input": "kol chay sahl", "output": "كل شي ساهل"}
+{"input": "kol chay mouchkil", "output": "كل شي مشكل"}
+{"input": "fama wa9t", "output": "فما وقت"}
+{"input": "fama blasa", "output": "فما بلاصة"}
+{"input": "fama tari9", "output": "فما طريق"}
+{"input": "fama amal", "output": "فما أمل"}
+{"input": "ma famech wa9t", "output": "ما فاماش وقت"}
+{"input": "ma famech tari9", "output": "ما فاماش طريق"}
+{"input": "ma famech mochkla", "output": "ما فاماش مشكلة"}
+{"input": "ma famech 7al", "output": "ما فاماش حل"}
+{"input": "barcha nes", "output": "برشا ناس"}
+{"input": "barcha klam", "output": "برشا كلام"}
+{"input": "barcha sou2el", "output": "برشا سؤال"}
+{"input": "barcha dh7ek", "output": "برشا ضحك"}
+{"input": "barcha 7keya", "output": "برشا حكاية"}
+{"input": "9bal chwaya", "output": "قبل شوية"}
+{"input": "9bal wa9t", "output": "قبل وقت"}
+{"input": "9bal el 3chiya", "output": "قبل العشية"}
+{"input": "ba3d chwaya", "output": "بعد شوية"}
+{"input": "ba3d wa9t", "output": "بعد وقت"}
+{"input": "ba3d lila", "output": "بعد ليلة"}
+{"input": "fil sbeh", "output": "في الصباح"}
+{"input": "fil 3chiya", "output": "في العشية"}
+{"input": "fil lil", "output": "في الليل"}
+{"input": "fil dar", "output": "في الدار"}
+{"input": "fil tri9", "output": "في الطريق"}
+{"input": "fil sou9", "output": "في السوق"}
+{"input": "fil 7ouma", "output": "في الحومة"}
+{"input": "ta7t eddar", "output": "تحت الدار"}
+{"input": "fo9 essath", "output": "فوق السطح"}
+{"input": "9odem el bab", "output": "قدام الباب"}
+{"input": "wara el bab", "output": "ورى الباب"}
+{"input": "7dheya", "output": "حذايا"}
+{"input": "7dhak", "output": "حذاك"}
+{"input": "7dhehom", "output": "حذاهم"}
+{"input": "m3aya", "output": "معايا"}
+{"input": "m3ak enti", "output": "معاك إنتي"}
+{"input": "m3ah houwa", "output": "معاه هو"}
+{"input": "m3aha hia", "output": "معاها هي"}
+{"input": "m3ahom lkol", "output": "معاهم الكل"}
+{"input": "liya ana", "output": "ليا أنا"}
+{"input": "lik enti", "output": "ليك إنتي"}
+{"input": "lih houwa", "output": "ليه هو"}
+{"input": "liha hia", "output": "ليها هي"}
+{"input": "lihom lkol", "output": "ليهم الكل"}
+{"input": "nheb nekel", "output": "نحب ناكل"}
+{"input": "nheb nochrob", "output": "نحب نشرب"}
+{"input": "nheb nor9ed", "output": "نحب نرقد"}
+{"input": "nheb nemchi", "output": "نحب نمشي"}
+{"input": "nheb nerga3", "output": "نحب نرجع"}
+{"input": "nheb nshouf", "output": "نحب نشوف"}
+{"input": "nheb nefhem", "output": "نحب نفهم"}
+{"input": "nheb net3allem", "output": "نحب نتعلم"}
+{"input": "nheb netdhakkar", "output": "نحب نتذكر"}
+{"input": "nheb nensa", "output": "نحب ننسى"}
+{"input": "nheb nerte7", "output": "نحب نرتاح"}
+{"input": "nheb nsa3ed", "output": "نحب نساعد"}
+{"input": "nheb nsa2el", "output": "نحب نسأل"}
+{"input": "nheb njeweb", "output": "نحب نجاوب"}
+{"input": "nheb n3awed", "output": "نحب نعاود"}
+{"input": "nheb n9oul s7i7", "output": "نحب نقول صحيح"}
+{"input": "ma nhebch nemchi", "output": "ما نحبش نمشي"}
+{"input": "ma nhebch nor9ed", "output": "ما نحبش نرقد"}
+{"input": "ma nhebch nekel", "output": "ما نحبش ناكل"}
+{"input": "ma nhebch nochrob", "output": "ما نحبش نشرب"}
+{"input": "ma nhebch net2akher", "output": "ما نحبش نتأخر"}
+{"input": "ma nhebch nensa", "output": "ما نحبش ننسى"}
+{"input": "ma nhebch nkhasser", "output": "ما نحبش نخسر"}
+{"input": "ma nhebch nkhalet", "output": "ما نحبش نغلط"}
+{"input": "t7eb tekel", "output": "تحب تاكل"}
+{"input": "t7eb tochrob", "output": "تحب تشرب"}
+{"input": "t7eb tor9ed", "output": "تحب ترقد"}
+{"input": "t7eb temchi", "output": "تحب تمشي"}
+{"input": "t7eb ترجع", "output": "تحب ترجع"}
+{"input": "t7eb tchouf", "output": "تحب تشوف"}
+{"input": "t7eb tefhem", "output": "تحب تفهم"}
+{"input": "t7eb تتعلم", "output": "تحب تتعلم"}
+{"input": "t7eb tethakker", "output": "تحب تتذكر"}
+{"input": "t7eb tensa", "output": "تحب تنسى"}
+{"input": "3andi jou3", "output": "عندي جوع"}
+{"input": "3andi 3tache", "output": "عندي عطش"}
+{"input": "3andi noum", "output": "عندي نوم"}
+{"input": "3andi wa9t taw", "output": "عندي وقت توة"}
+{"input": "3andi sou2el sghir", "output": "عندي سؤال صغير"}
+{"input": "3andi fikra", "output": "عندي فكرة"}
+{"input": "3andi chkoun", "output": "عندي شكون"}
+{"input": "3andi 7aja", "output": "عندي حاجة"}
+{"input": "3andek 7a9", "output": "عندك حق"}
+{"input": "3andek ghalet", "output": "عندك غالط"}
+{"input": "3andek wa9t tawa", "output": "عندك وقت توة"}
+{"input": "3andek sou2el", "output": "عندك سؤال"}
+{"input": "3andek fikra", "output": "عندك فكرة"}
+{"input": "3andou l7a9", "output": "عندو الحق"}
+{"input": "3andha l7a9", "output": "عندها الحق"}
+{"input": "ma3andich wa9t", "output": "ما عنديش وقت"}
+{"input": "ma3andich flous", "output": "ما عنديش فلوس"}
+{"input": "ma3andich jou3", "output": "ما عنديش جوع"}
+{"input": "ma3andich noum", "output": "ما عنديش نوم"}
+{"input": "ma3andich fekra", "output": "ما عنديش فكرة"}
+{"input": "ma3andich jawab", "output": "ما عنديش جواب"}
+{"input": "ma3andekch 7a9", "output": "ما عندكش حق"}
+{"input": "ma3andekch wa9t", "output": "ما عندكش وقت"}
+{"input": "ma3andekch sou2el", "output": "ما عندكش سؤال"}
+{"input": "s7i7 hedha", "output": "صحيح هذا"}
+{"input": "s7i7 barcha", "output": "صحيح برشا"}
+{"input": "ghalet hedha", "output": "غلط هذا"}
+{"input": "ghalet barcha", "output": "غلط برشا"}
+{"input": "moch s7i7", "output": "موش صحيح"}
+{"input": "moch ghalet", "output": "موش غلط"}
+{"input": "sahla barcha", "output": "ساهلة برشا"}
+{"input": "s3iba barcha", "output": "صعيبة برشا"}
+{"input": "wadh7a barcha", "output": "واضحة برشا"}
+{"input": "ghamdha barcha", "output": "غامضة برشا"}
+{"input": "behi barcha", "output": "باهي برشا"}
+{"input": "khayeb barcha", "output": "خايب برشا"}
+{"input": "7lou barcha", "output": "حلو برشا"}
+{"input": "9wi barcha", "output": "قوي برشا"}
+{"input": "dha3if barcha", "output": "ضعيف برشا"}
+{"input": "taw nefhem", "output": "توة نفهم"}
+{"input": "taw njiwek", "output": "توة نجاوبك"}
+{"input": "taw nchouf", "output": "توة نشوف"}
+{"input": "taw n9ollek", "output": "توة نقولك"}
+{"input": "taw netfakker", "output": "توة نتفكر"}
+{"input": "ghodwa nchouf", "output": "غدوة نشوف"}
+{"input": "ghodwa n9ollek", "output": "غدوة نقولك"}
+{"input": "ghodwa nji", "output": "غدوة نجي"}
+{"input": "ghodwa nemchi", "output": "غدوة نمشي"}
+{"input": "lbar7 mchit", "output": "البارح مشيت"}
+{"input": "lbar7 jit", "output": "البارح جيت"}
+{"input": "lbar7 choftou", "output": "البارح شفتو"}
+{"input": "lbar7 sma3tou", "output": "البارح سمعتو"}
+{"input": "tawa fhemt", "output": "توة فهمت"}
+{"input": "tawa dhakkart", "output": "توة تذكرت"}
+{"input": "tawa nseet", "output": "توة نسيت"}
+{"input": "mriguel barcha", "output": "مريقل برشا"}
+{"input": "mnadhem barcha", "output": "منظم برشا"}
+{"input": "mfassakh barcha", "output": "مفسخ برشا"}
+{"input": "mrattab barcha", "output": "مرتب برشا"}
+{"input": "mela7er", "output": "ملا خير"}
+{"input": "saha lik", "output": "صحة ليك"}
+{"input": "allah ybarek", "output": "الله يبارك"}
+{"input": "rabbi m3ak", "output": "ربي معاك"}
+{"input": "rabbi y3inek", "output": "ربي يعينك"}
+{"input": "rabbi ysehel", "output": "ربي يسهل"}
+{"input": "rabbi yfarrej", "output": "ربي يفرج"}
+{"input": "inchallah labes", "output": "إن شاء الله لاباس"}
+{"input": "inchallah khir", "output": "إن شاء الله خير"}
+{"input": "inchallah sahl", "output": "إن شاء الله ساهل"}
+{"input": "ya latif", "output": "يا لطيف"}
+{"input": "ya hasra", "output": "يا حسرة"}
+{"input": "ya salam", "output": "يا سلام"}
+{"input": "ya khsara", "output": "يا خسارة"}
+{"input": "ya 7lil", "output": "يا حليل"}
+{"input": "massa el khir", "output": "مساء الخير"}
+{"input": "ahla", "output": "أهلا"}
+{"input": "ahla bik", "output": "أهلا بيك"}
+{"input": "mar7be", "output": "مرحبا"}
+{"input": "kifek", "output": "كيفك"}
+{"input": "kif 7alek", "output": "كيف حالك"}
+{"input": "chnews 7welek", "output": "شنوة حوالك"}
+{"input": "labes 3lik", "output": "لاباس عليك"}
+{"input": "ana mlih", "output": "أنا مليح"}
+{"input": "kol chay behi", "output": "كل شي باهي"}
+{"input": "3aychek", "output": "عايشك"}
+{"input": "saha w far7a", "output": "صحة وفرحة"}
+{"input": "rani mechi", "output": "راني ماشي"}
+{"input": "winek", "output": "وينك"}
+{"input": "winti", "output": "وينتي"}
+{"input": "ghadi", "output": "غادي"}
+{"input": "taw nji", "output": "توة نجي"}
+{"input": "lyoum jit", "output": "اليوم جيت"}
+{"input": "ana nheb", "output": "أنا نحب"}
+{"input": "nheb nji", "output": "نحب نجي"}
+{"input": "nheb nchouf", "output": "نحب نشوف"}
+{"input": "nheb na3ref", "output": "نحب نعرف"}
+{"input": "nheb nekteb", "output": "نحب نكتب"}
+{"input": "nheb netkallem", "output": "نحب نتكلم"}
+{"input": "3andi wa9t", "output": "عندي وقت"}
+{"input": "3andi sou2el", "output": "عندي سؤال"}
+{"input": "3andi 7keya", "output": "عندي حكاية"}
+{"input": "3andi khdma", "output": "عندي خدمة"}
+{"input": "fama mochkla", "output": "فما مشكلة"}
+{"input": "fama 7al", "output": "فما حل"}
+{"input": "fama barcha nes", "output": "فما برشا ناس"}
+{"input": "fama barcha khdma", "output": "فما برشا خدمة"}
+{"input": "fama barcha klam", "output": "فما برشا كلام"}
+{"input": "fama barcha sou2el", "output": "فما برشا سؤال"}
+{"input": "kol chay s3ib", "output": "كل شي صعيب"}
+{"input": "kol chay mriguel", "output": "كل شي مريقل"}
+{"input": "kol chay mezyen", "output": "كل شي مزيان"}
+{"input": "mouch mochkla", "output": "موش مشكلة"}
+{"input": "ma3lich", "output": "معلش"}
+{"input": "samahni", "output": "سامحني"}
+{"input": "samahni barcha", "output": "سامحني برشا"}
+{"input": "samahni 3la t2khir", "output": "سامحني على التأخير"}
+{"input": "merci barcha", "output": "مرسي برشا"}
+{"input": "bravo 3lik", "output": "برافو عليك"}
+{"input": "barcha mlih", "output": "برشا مليح"}
+{"input": "fil bit", "output": "في البيت"}
+{"input": "fil koujina", "output": "في الكوجينة"}
+{"input": "fil khdma", "output": "في الخدمة"}
+{"input": "fil 9ahwa", "output": "في القهوة"}
+{"input": "m3ak", "output": "معاك"}
+{"input": "m3ah", "output": "معاه"}
+{"input": "m3aha", "output": "معاها"}
+{"input": "m3ahom", "output": "معاهم"}
+{"input": "liya", "output": "ليا"}
+{"input": "lik", "output": "ليك"}
+{"input": "lih", "output": "ليه"}
+{"input": "liha", "output": "ليها"}
+{"input": "lihom", "output": "ليهم"}
+{"input": "mnin jit", "output": "منين جيت"}
+{"input": "mnin enti", "output": "منين إنتي"}
+{"input": "win temchi", "output": "وين تمشي"}
+{"input": "win tji", "output": "وين تجي"}
+{"input": "win el blasa", "output": "وين البلاصة"}
+{"input": "win el tri9", "output": "وين الطريق"}
+{"input": "taw", "output": "توة"}
+{"input": "tawa", "output": "توة"}
+{"input": "lyoum", "output": "اليوم"}
+{"input": "nhar kemel", "output": "نهار كامل"}
+{"input": "lila kemla", "output": "ليلة كاملة"}
+{"input": "chnowa", "output": "شنوة"}
+{"input": "chnowa esmek", "output": "شنوة اسمك"}
+{"input": "chnowa t7eb", "output": "شنوة تحب"}
+{"input": "chnowa t7eb tekel", "output": "شنوة تحب تاكل"}
+{"input": "chnowa t7eb tochrob", "output": "شنوة تحب تشرب"}
+{"input": "chnowa 3andek", "output": "شنوة عندك"}
+{"input": "chnowa fama", "output": "شنوة فما"}
+{"input": "chnowa sar", "output": "شنوة صار"}
+{"input": "chnowa sayer", "output": "شنوة صاير"}
+{"input": "chnowa fekretek", "output": "شنوة فكرتك"}
+{"input": "3lech", "output": "علاش"}
+{"input": "3lech haka", "output": "علاش هكا"}
+{"input": "3lech le", "output": "علاش لا"}
+{"input": "kifeh", "output": "كيفاش"}
+{"input": "kifeh n3mel", "output": "كيفاش نعمل"}
+{"input": "kifeh nemchi", "output": "كيفاش نمشي"}
+{"input": "kifeh nji", "output": "كيفاش نجي"}
+{"input": "kifeh nefhem", "output": "كيفاش نفهم"}
+{"input": "kifeh t7eb", "output": "كيفاش تحب"}
+{"input": "wa9tech", "output": "وقتاش"}
+{"input": "wa9tech tji", "output": "وقتاش تجي"}
+{"input": "wa9tech temchi", "output": "وقتاش تمشي"}
+{"input": "wa9tech tebda", "output": "وقتاش تبدا"}
+{"input": "wa9tech tkamel", "output": "وقتاش تكمل"}
+{"input": "chkoun", "output": "شكون"}
+{"input": "chkoun hedha", "output": "شكون هذا"}
+{"input": "chkoun hia", "output": "شكون هي"}
+{"input": "chkoun m3ak", "output": "شكون معاك"}
+{"input": "chkoun 9alek", "output": "شكون قالك"}
+{"input": "wina", "output": "وينا"}
+{"input": "wina tawa", "output": "وينا توة"}
+{"input": "wina ghodwa", "output": "وينا غدوة"}
+{"input": "fama 7ad", "output": "فما حد"}
+{"input": "ma fama 7ad", "output": "ما فما حد"}
+{"input": "fama chkoun", "output": "فما شكون"}
+{"input": "ma fama hata chay", "output": "ما فما حتى شي"}
+{"input": "chay s7i7", "output": "شي صحيح"}
+{"input": "wadh7a", "output": "واضحة"}
+{"input": "ghamdha", "output": "غامضة"}
+{"input": "ma fhemtch", "output": "ما فهمتش"}
+{"input": "ma nhebch nji", "output": "ما نحبش نجي"}
+{"input": "ma najamch", "output": "ما نجمش"}
+{"input": "ma najamch nji", "output": "ما نجمش نجي"}
+{"input": "ma najamch nemchi", "output": "ما نجمش نمشي"}
+{"input": "ma najamch nekel", "output": "ما نجمش ناكل"}
+{"input": "ma najamch nor9ed", "output": "ما نجمش نرقد"}
+{"input": "ma n3refch kifesh", "output": "ما نعرفش كيفاش"}
+{"input": "ma n3refch win", "output": "ما نعرفش وين"}
+{"input": "ma n3refch 3lech", "output": "ما نعرفش علاش"}
+{"input": "ma n3refch chnowa", "output": "ما نعرفش شنوة"}
+{"input": "ma fhemtch chay", "output": "ما فهمتش شي"}
+{"input": "ma sma3tch", "output": "ما سمعتش"}
+{"input": "ma choftch", "output": "ما شفتش"}
+{"input": "ma jitich", "output": "ما جيتش"}
+{"input": "ma mchitech", "output": "ما مشيتش"}
+{"input": "ma klitech", "output": "ما كليتش"}
+{"input": "ma chrabtech", "output": "ما شربتش"}
+{"input": "ma rekedtech", "output": "ما رقدتش"}
+{"input": "ma t2akhertch", "output": "ما تأخرتش"}
+{"input": "mriguel", "output": "مريقل"}
+{"input": "mezyen", "output": "مزيان"}
+{"input": "behi", "output": "باهي"}
+{"input": "khayeb", "output": "خايب"}
+{"input": "7lou", "output": "حلو"}
+{"input": "s3ib", "output": "صعيب"}
+{"input": "9wi", "output": "قوي"}
+{"input": "dha3if", "output": "ضعيف"}
+{"input": "kebir", "output": "كبير"}
+{"input": "sghir", "output": "صغير"}
+{"input": "twil", "output": "طويل"}
+{"input": "9sir", "output": "قصير"}
+{"input": "bared", "output": "بارد"}
+{"input": "se5en", "output": "سخون"}
+{"input": "yebes", "output": "يابس"}
+{"input": "ratb", "output": "رطب"}
+{"input": "emchi", "output": "امشي"}
+{"input": "ta3ala", "output": "تعالى"}
+{"input": "ok3ed", "output": "أقعد"}
+{"input": "estanna", "output": "استنى"}
+{"input": "ejri", "output": "اجري"}
+{"input": "a3ti", "output": "أعطي"}
+{"input": "hazz", "output": "هز"}
+{"input": "hoth", "output": "حط"}
+{"input": "7ell el bab", "output": "حل الباب"}
+{"input": "sakkar el bab", "output": "سكر الباب"}
+{"input": "esm3", "output": "اسمع"}
+{"input": "etkallem", "output": "اتكلم"}
+{"input": "oskot", "output": "اسكت"}
+{"input": "chouf", "output": "شوف"}
+{"input": "khamem", "output": "خمم"}
+{"input": "efhem", "output": "افهم"}
+{"input": "jeweb", "output": "جاوب"}
+{"input": "sa3edni", "output": "ساعدني"}
+{"input": "3aweni", "output": "عاوني"}
+{"input": "warrini", "output": "وريني"}
+{"input": "farrejni", "output": "فرجني"}
+{"input": "9olli", "output": "قولي"}
+{"input": "3awed", "output": "عاود"}
+{"input": "3awed mara o5ra", "output": "عاود مرة أخرى"}
+{"input": "a9ra", "output": "اقرا"}
+{"input": "ekteb", "output": "اكتب"}
+{"input": "osber", "output": "اصبر"}
+{"input": "erte7", "output": "ارتاح"}
+{"input": "arja3", "output": "ارجع"}
+{"input": "od5ol", "output": "ادخل"}
+{"input": "o5rej", "output": "اخرج"}
+{"input": "teb3ni", "output": "تبعني"}
+{"input": "khallini", "output": "خليني"}
+{"input": "khallina", "output": "خلينا"}
+{"input": "kallimni", "output": "كلمني"}
+{"input": "salli", "output": "صلي"}
+{"input": "dhakkarni", "output": "ذكرني"}
+{"input": "fakkerni", "output": "فكرني"}
+{"input": "warrih", "output": "وريه"}
+{"input": "3ayyetli", "output": "عيطلي"}
+{"input": "ab3athli", "output": "ابعثلي"}
+{"input": "ab3athlou", "output": "ابعثلو"}
+{"input": "nadi 3lih", "output": "نادي عليه"}
+{"input": "sakhen el ma", "output": "سخن الما"}
+{"input": "jib el ma", "output": "جيب الما"}
+{"input": "jib el khobz", "output": "جيب الخبز"}
+{"input": "hoth el khobz", "output": "حط الخبز"}
+{"input": "jib el makla", "output": "جيب الماكلة"}
+{"input": "hoth el makla", "output": "حط الماكلة"}
+{"input": "ena fer7en", "output": "أنا فرحان"}
+{"input": "ena za3fen", "output": "أنا زعفان"}
+{"input": "ena ta3ben", "output": "أنا تعبان"}
+{"input": "ena meridh", "output": "أنا مريض"}
+{"input": "ena mesta3jel", "output": "أنا مستعجل"}
+{"input": "ena 9a3ed nestana", "output": "أنا قاعد نستنى"}
+{"input": "ena 9a3ed nakhdem", "output": "أنا قاعد نخدم"}
+{"input": "ena 9a3ed n9ra", "output": "أنا قاعد نقرا"}
+{"input": "ena 9a3ed netfakker", "output": "أنا قاعد نتفكر"}
+{"input": "ena 9a3ed n7awel", "output": "أنا قاعد نحاول"}
+{"input": "enti fer7an", "output": "إنتي فرحان"}
+{"input": "enti za3fen", "output": "إنتي زعفان"}
+{"input": "enti ta3ben", "output": "إنتي تعبان"}
+{"input": "enti meridh", "output": "إنتي مريض"}
+{"input": "enti mesta3jel", "output": "إنتي مستعجل"}
+{"input": "houwa fer7an", "output": "هو فرحان"}
+{"input": "houwa za3fen", "output": "هو زعفان"}
+{"input": "houwa ta3eb", "output": "هو تعب"}
+{"input": "hia fer7ana", "output": "هي فرحانة"}
+{"input": "hia za3fena", "output": "هي زعفانة"}
+{"input": "hia ta3ba", "output": "هي تعبة"}
+{"input": "a7na fer7anin", "output": "أحنا فرحانين"}
+{"input": "a7na ta3bin", "output": "أحنا تعبانين"}
+{"input": "houma fer7anin", "output": "هوما فرحانين"}
+{"input": "houma ta3bin", "output": "هوما تعبانين"}
+{"input": "ena bard barcha", "output": "أنا بارد برشا"}
+{"input": "ena se5en barcha", "output": "أنا سخون برشا"}
+{"input": "enti bard barcha", "output": "إنتي بارد برشا"}
+{"input": "enti se5en barcha", "output": "إنتي سخون برشا"}
+{"input": "el jaw mo3tadel", "output": "الجو معتدل"}
+{"input": "el jaw mghayem", "output": "الجو مغيم"}
+{"input": "esma safya", "output": "السما صافية"}
+{"input": "nhess rou7i behi", "output": "نحس روحي باهي"}
+{"input": "nhess rou7i ta3eb", "output": "نحس روحي تعبان"}
+{"input": "nhess rou7i mezyen", "output": "نحس روحي مزيان"}
+{"input": "nhess rou7i m9alle9", "output": "نحس روحي مقلق"}
+{"input": "nhess rou7i ja3an", "output": "نحس روحي جعان"}
+{"input": "nhess rou7i 3atshen", "output": "نحس روحي عطشان"}
+{"input": "nhess rou7i n3as", "output": "نحس روحي نعسان"}
+{"input": "mazelt nestana", "output": "مازلت نستنى"}
+{"input": "mazelt nfakker", "output": "مازلت نفكر"}
+{"input": "mazelt nkhdem", "output": "مازلت نخدم"}
+{"input": "mazelt n9ra", "output": "مازلت نقرا"}
+{"input": "mazelt mafhemtch", "output": "مازلت ما فهمتش"}
+{"input": "t3ebt barcha lyoum", "output": "تعبت برشا اليوم"}
+{"input": "far7t barcha lyoum", "output": "فرحت برشا اليوم"}
+{"input": "t9alla9t chwaya", "output": "تقلقت شوية"}
+{"input": "tdhakkart elli sar", "output": "تذكرت اللي صار"}
+{"input": "nseet el 7keya", "output": "نسيت الحكاية"}
+{"input": "ena bech n5arrej", "output": "أنا باش نخرج"}
+{"input": "ena bech nji 3lik", "output": "أنا باش نجي عليك"}
+{"input": "ena bech nemchi lelbit", "output": "أنا باش نمشي للبيت"}
+{"input": "ena bech narja3 bekri", "output": "أنا باش نرجع بكري"}
+{"input": "ena bech na3mel 9ahwa", "output": "أنا باش نعمل قهوة"}
+{"input": "ena bech nokol ba3d chwaya", "output": "أنا باش ناكل بعد شوية"}
+{"input": "ena bech nochrob ma", "output": "أنا باش نشرب ما"}
+{"input": "ena bech nor9ed bekri", "output": "أنا باش نرقد بكري"}
+{"input": "ena bech na7ki m3ak", "output": "أنا باش نحكي معاك"}
+{"input": "ena bech nsa2lek sou2el", "output": "أنا باش نسألك سؤال"}
+{"input": "enti bech tji lghadi", "output": "إنتي باش تجي لغادي"}
+{"input": "enti bech temchi wa7dek", "output": "إنتي باش تمشي وحدك"}
+{"input": "enti bech terja3 sra3", "output": "إنتي باش ترجع سريع"}
+{"input": "enti bech ta3mel akel", "output": "إنتي باش تعمل أكل"}
+{"input": "enti bech t9olli ess7i7", "output": "إنتي باش تقلي الصحيح"}
+{"input": "houwa bech yji ba3d", "output": "هو باش يجي بعد"}
+{"input": "houwa bech yemchi taw", "output": "هو باش يمشي توة"}
+{"input": "houwa bech ykamel khedma", "output": "هو باش يكمل خدمة"}
+{"input": "hia bech terja3 lildar", "output": "هي باش ترجع للدار"}
+{"input": "hia bech ta9ra ba3d", "output": "هي باش تقرا بعد"}
+{"input": "a7na bech nemchiw ma3 ba3dhna", "output": "أحنا باش نمشيو مع بعضنا"}
+{"input": "a7na bech na7kiw fel mawdhou3", "output": "أحنا باش نحكيو في الموضوع"}
+{"input": "a7na bech n9a3dou hneya", "output": "أحنا باش نقعدوا هنايا"}
+{"input": "a7na bech nraw7ou ma3 el lil", "output": "أحنا باش نروحوا مع الليل"}
+{"input": "houma bech yjiw se3a o5ra", "output": "هوما باش يجيو ساعة أخرى"}
+{"input": "houma bech yemchiw lbarra", "output": "هوما باش يمشيو لبرا"}
+{"input": "barra e7sebha mli7", "output": "برا احسبها مليح"}
+{"input": "barra khammem feha", "output": "برا خمم فيها"}
+{"input": "barra jib m3ak ma", "output": "برا جيب معاك ما"}
+{"input": "barra raja3li el mfta7", "output": "برا رجعلي المفتاح"}
+{"input": "estana hneya chwaya", "output": "استنى هنايا شوية"}
+{"input": "oskot se3a", "output": "اسكت ساعة"}
+{"input": "a3mel sabr chwaya", "output": "اعمل صبر شوية"}
+{"input": "eb3athli kelma", "output": "ابعثلي كلمة"}
+{"input": "kallimni ba3d se3a", "output": "كلمني بعد ساعة"}
+{"input": "khalli el beb maftou7", "output": "خلي الباب مفتوح"}
+{"input": "salli 3la nbi", "output": "صلي على النبي"}
+{"input": "khalli rou7ek heni", "output": "خلي روحك هاني"}
+{"input": "khalli mokhek raye9", "output": "خلي مخك رايق"}
+{"input": "khallina nkamlou", "output": "خلينا نكملوا"}
+{"input": "khallini nefhem", "output": "خليني نفهم"}
+{"input": "khallini nkhammem", "output": "خليني نخمم"}
+{"input": "warrini kifech", "output": "وريني كيفاش"}
+{"input": "fasserli bel behi", "output": "فسرلي بالباهي"}
+{"input": "9olli kifesh sar", "output": "قلي كيفاش صار"}
+{"input": "a3tini wa9t besh nfhem", "output": "أعطيني وقت باش نفهم"}
+{"input": "radd belek rou7ek", "output": "رد بالك روحك"}
+{"input": "jarrab mara o5ra", "output": "جرب مرة أخرى"}
+{"input": "3awedha men jdid", "output": "عاودها من جديد"}
+{"input": "5ammem men 9bal", "output": "خمم من قبل"}
+{"input": "chbik seket", "output": "شبيك ساكت"}
+{"input": "chbik mza3fe", "output": "شبيك مزعف"}
+{"input": "chbik ta3eb", "output": "شبيك تعب"}
+{"input": "chbik ma jit", "output": "شبيك ما جيت"}
+{"input": "chbik ma kallemtnich", "output": "شبيك ما كلمتنيش"}
+{"input": "chbik ma jawebtnich", "output": "شبيك ما جاوبتنيش"}
+{"input": "chbik msta3jel", "output": "شبيك مستعجل"}
+{"input": "chnou esmou hedha", "output": "شنو اسمو هذا"}
+{"input": "chnou ma3naha", "output": "شنو معناها"}
+{"input": "chnou t7eb t9oul", "output": "شنو تحب تقول"}
+{"input": "chnou yhemmek tawa", "output": "شنو يهمك توة"}
+{"input": "chnou na3mel ba3d", "output": "شنو نعمل بعد"}
+{"input": "chnou elli sayer", "output": "شنو اللي صاير"}
+{"input": "chnou elli sar lbar7", "output": "شنو اللي صار البارح"}
+{"input": "chnou mouchkeltk", "output": "شنو مشكلتك"}
+{"input": "chnou 3andek lyoum", "output": "شنو عندك اليوم"}
+{"input": "chnou b9alek mel khedma", "output": "شنو بقالك من الخدمة"}
+{"input": "chnou rayek fih", "output": "شنو رأيك فيه"}
+{"input": "chnou 9oltlek 9bal", "output": "شنو قلتلك قبل"}
+{"input": "chnou sema3t", "output": "شنو سمعت"}
+{"input": "kifech wasalt lel blasa", "output": "كيفاش وصلت للبلاصة"}
+{"input": "kifech fhemt el fekra", "output": "كيفاش فهمت الفكرة"}
+{"input": "kifech tkhammem fel mawdo3", "output": "كيفاش تخمم في الموضوع"}
+{"input": "kifech terte7 fil bit", "output": "كيفاش ترتاح في البيت"}
+{"input": "kifech tenja7 fel khedma", "output": "كيفاش تنجح في الخدمة"}
+{"input": "kifech t9assar el tri9", "output": "كيفاش تقصر الطريق"}
+{"input": "kifech t7eb el jawab", "output": "كيفاش تحب الجواب"}
+{"input": "kifech tsir el 7keya", "output": "كيفاش تصير الحكاية"}
+{"input": "wa9tach rawa7t lel dar", "output": "وقتاش روحت للدار"}
+{"input": "wa9tach wsolt lel bit", "output": "وقتاش وصلت للبيت"}
+{"input": "wa9tach tkoun far8", "output": "وقتاش تكون فارغ"}
+{"input": "wa9tach tebda el khedma", "output": "وقتاش تبدا الخدمة"}
+{"input": "wa9tach tkamel el dars", "output": "وقتاش تكمل الدرس"}
+{"input": "win teskon tawa", "output": "وين تسكن توة"}
+{"input": "win tkhdem lyoum", "output": "وين تخدم اليوم"}
+{"input": "win ma5dhit el mfta7", "output": "وين ماخذيت المفتاح"}
+{"input": "win hattet el wara9a", "output": "وين حطيت الورقة"}
+{"input": "win bdit fel 9raya", "output": "وين بديت في القراية"}
+{"input": "win bech temchi ba3d", "output": "وين باش تمشي بعد"}
+{"input": "chkoun mche m3ak", "output": "شكون مشى معاك"}
+{"input": "chkoun 7all el beb", "output": "شكون حل الباب"}
+{"input": "chkoun sakkar el chobbek", "output": "شكون سكر الشباك"}
+{"input": "chkoun 3ayyetlik lyoum", "output": "شكون عيطلك اليوم"}
+{"input": "chkoun ba3athlek errisala", "output": "شكون بعثلك الرسالة"}
+{"input": "chkoun sma3 el klam", "output": "شكون سمع الكلام"}
+{"input": "win yoj3ek", "output": "وين يوجعك"}
+{"input": "3lech ma 9oltlnach", "output": "علاش ما قلتلناش"}
+{"input": "3lech mazelt seket", "output": "علاش مازلت ساكت"}
+{"input": "3lech tdhahk", "output": "علاش تضحك"}
+{"input": "3lech t9alla9", "output": "علاش تقلق"}
+{"input": "jibli kes ma sghir", "output": "جيبلي كاس ما صغير"}
+{"input": "jibli kes ma kbir", "output": "جيبلي كاس ما كبير"}
+{"input": "jibli ma bared", "output": "جيبلي ما بارد"}
+{"input": "jibli ma se5oun", "output": "جيبلي ما سخون"}
+{"input": "jibli khobz jdid", "output": "جيبلي خبز جديد"}
+{"input": "jibli 7lib bared", "output": "جيبلي حليب بارد"}
+{"input": "jibli 7lib se5en", "output": "جيبلي حليب سخون"}
+{"input": "jibli soker zeyd", "output": "جيبلي سكر زايد"}
+{"input": "jibli mel7 chwaya", "output": "جيبلي ملح شوية"}
+{"input": "jibli ma3la9a sghira", "output": "جيبلي معلقة صغيرة"}
+{"input": "jibli taba9 kbira", "output": "جيبلي طبق كبير"}
+{"input": "7ott el kes fou9 el meyda", "output": "حط الكاس فوق الميدة"}
+{"input": "7ott el ma fel kass", "output": "حط الما في الكاس"}
+{"input": "7ott el khobz 7dheya", "output": "حط الخبز حذايا"}
+{"input": "7ott el soker fil boite", "output": "حط السكر في البواطة"}
+{"input": "7ell el frijider", "output": "حل الفريجيدار"}
+{"input": "sakkar el frijider", "output": "سكر الفريجيدار"}
+{"input": "zed mel7 chwaya", "output": "زيد ملح شوية"}
+{"input": "zed ma fil kes", "output": "زيد ما في الكاس"}
+{"input": "zed khobz fil meyda", "output": "زيد خبز في الميدة"}
+{"input": "makla heyla lyoum", "output": "ماكلة هايلة اليوم"}
+{"input": "makla me7r9a chwaya", "output": "ماكلة محرقة شوية"}
+{"input": "makla barda barcha", "output": "ماكلة باردة برشا"}
+{"input": "el ma se5oun barcha", "output": "الما سخون برشا"}
+{"input": "el ma bared barcha", "output": "الما بارد برشا"}
+{"input": "el khobz mezyen lyoum", "output": "الخبز مزيان اليوم"}
+{"input": "el 9ahwa 9weya", "output": "القهوة قوية"}
+{"input": "el atay 7lou", "output": "الأتاي حلو"}
+{"input": "el 7lib tayeb", "output": "الحليب طيب"}
+{"input": "el akel ychahi", "output": "الأكل يشهي"}
+{"input": "na9es mel7 men el akel", "output": "نقص ملح من الأكل"}
+{"input": "na9es soker men el atay", "output": "نقص سكر من الأتاي"}
+{"input": "ghatti el meyda mli7", "output": "غطي الميدة مليح"}
+{"input": "naddhef el meyda taw", "output": "نظف الميدة توة"}
+{"input": "ossel el kass", "output": "اغسل الكاس"}
+{"input": "ossel el taba9", "output": "اغسل الطبق"}
+{"input": "lam el ma3oun", "output": "لم الماعون"}
+{"input": "ratteb el koujina", "output": "رتب الكوجينة"}
+{"input": "naddhef el bit men fou9", "output": "نظف البيت من فوق"}
+{"input": "naddhef el bit men louta", "output": "نظف البيت من لوطة"}
+{"input": "7ell el ma lil ma3oun", "output": "حل الما للماعون"}
+{"input": "sakkar el ma ba3d", "output": "سكر الما بعد"}
+{"input": "jib el kursi lghadi", "output": "جيب الكرسي لغادي"}
+{"input": "7ott el kursi 7dheya", "output": "حط الكرسي حذايا"}
+{"input": "jib el mfta7 men fou9", "output": "جيب المفتاح من فوق"}
+{"input": "ma tdhaya3ch el mfta7", "output": "ما تضيعش المفتاح"}
+{"input": "7ell el sandou9 essghir", "output": "حل الصندوق الصغير"}
+{"input": "sakkar el sandou9 el kbir", "output": "سكر الصندوق الكبير"}
+{"input": "a3tini wara9a beydha", "output": "أعطيني ورقة بيضا"}
+{"input": "a3tini stylo zra9", "output": "أعطيني ستيلو أزرق"}
+{"input": "a3tini daftar jdid", "output": "أعطيني دفتر جديد"}
+{"input": "a3tini kteb sghir", "output": "أعطيني كتاب صغير"}
+{"input": "a3tini forsa ba3d", "output": "أعطيني فرصة بعد"}
+{"input": "a3tini chwaya wa9t", "output": "أعطيني شوية وقت"}
+{"input": "el khedma mta3 lyoum s3iba", "output": "الخدمة متاع اليوم صعيبة"}
+{"input": "el khedma mta3 ghodwa ashel", "output": "الخدمة متاع غدوة أسهل"}
+{"input": "el dars mta3 lyoum twil", "output": "الدرس متاع اليوم طويل"}
+{"input": "el dars mta3 lbar7 sehel", "output": "الدرس متاع البارح ساهل"}
+{"input": "el tamrin mouch wadh7", "output": "التمرين موش واضح"}
+{"input": "el sou2el 3andou 7all", "output": "السؤال عندو حل"}
+{"input": "el jawab mouch kamel", "output": "الجواب موش كامل"}
+{"input": "ena mazelt nakteb", "output": "أنا مازلت نكتب"}
+{"input": "ena mazelt n7ot fel notes", "output": "أنا مازلت نحط في النوتس"}
+{"input": "ena kammelt etamrin", "output": "أنا كملت التمرين"}
+{"input": "ena kammelt el moraja3a", "output": "أنا كملت المراجعة"}
+{"input": "enti mazelt ta9ra", "output": "إنتي مازلت تقرا"}
+{"input": "enti kammelt el jawab", "output": "إنتي كملت الجواب"}
+{"input": "houwa mazelt y5ammem", "output": "هو مازلت يخمم"}
+{"input": "hia kammlet el 9raya", "output": "هي كملت القراية"}
+{"input": "a7na mazelna fel bidaya", "output": "أحنا مازلنا في البداية"}
+{"input": "houma kamlou el khedma", "output": "هوما كملوا الخدمة"}
+{"input": "3awedli essou2el bel hdou", "output": "عاودلي السؤال بالهدو"}
+{"input": "3awedli el dars bchwaya", "output": "عاودلي الدرس بشوية"}
+{"input": "fasserli hedhi el no9ta", "output": "فسرلي هاذي النقطة"}
+{"input": "warrini el tri9a ess7i7a", "output": "وريني الطريقة الصحيحة"}
+{"input": "9olli el 7a9i9a lkol", "output": "قلي الحقيقة الكل"}
+{"input": "ma testa3jelch fel jawab", "output": "ما تستعجلش في الجواب"}
+{"input": "ekteb esm el dars", "output": "اكتب اسم الدرس"}
+{"input": "a9ra hedhi el jemla", "output": "اقرا هاذي الجملة"}
+{"input": "sa77a7 hedhi el ghalta", "output": "صحح هاذي الغلطة"}
+{"input": "a3tini mithal sehel", "output": "أعطيني مثال ساهل"}
+{"input": "hathi fekra tayba", "output": "هاذي فكرة طيبة"}
+{"input": "hedha ra2y mohem", "output": "هذا رأي مهم"}
+{"input": "hedhi mola7dha s7i7a", "output": "هاذي ملاحظة صحيحة"}
+{"input": "hedha ta3bir wadh7", "output": "هذا تعبير واضح"}
+{"input": "hedhi kalma ghalta", "output": "هاذي كلمة غالطة"}
+{"input": "el ma3na mouch kamel", "output": "المعنى موش كامل"}
+{"input": "el klam mrattab", "output": "الكلام مرتب"}
+{"input": "el klam mouch mrattab", "output": "الكلام موش مرتب"}
+{"input": "el sawt 3ali barcha", "output": "الصوت عالي برشا"}
+{"input": "el sawt habet", "output": "الصوت هابط"}
+{"input": "el sawt masmou3", "output": "الصوت مسموع"}
+{"input": "el raye mouch s7i7", "output": "الرأي موش صحيح"}
+{"input": "ena mouch mt2aked men hedha", "output": "أنا موش متأكد من هذا"}
+{"input": "enti mt2aked men el jawab", "output": "إنتي متأكد من الجواب"}
+{"input": "a7na mouch fehmin lkol", "output": "أحنا موش فاهمين الكل"}
+{"input": "houma fehmin akther", "output": "هوما فاهمين أكثر"}
+{"input": "rani mazelni nestana", "output": "راني مازلني نستنى"}
+{"input": "rani mazelni nkhammem", "output": "راني مازلني نخمم"}
+{"input": "mazelt ma khdhetech 9rar", "output": "مازلت ما خذيتش قرار"}
+{"input": "el tri9 twila barcha", "output": "الطريق طويلة برشا"}
+{"input": "el tri9 9sira barcha", "output": "الطريق قصيرة برشا"}
+{"input": "el tri9 msakra", "output": "الطريق مسكرة"}
+{"input": "el tri9 fer8a lyoum", "output": "الطريق فارغة اليوم"}
+{"input": "el blasa 9riba men hneya", "output": "البلاصة قريبة من هنايا"}
+{"input": "el blasa b3ida 3lina", "output": "البلاصة بعيدة علينا"}
+{"input": "el beb ma7loul men 9bal", "output": "الباب محلول من قبل"}
+{"input": "el beb msakker mli7", "output": "الباب مسكر مليح"}
+{"input": "el chobbek ma7loul lyoum", "output": "الشباك محلول اليوم"}
+{"input": "el chobbek msakker taw", "output": "الشباك مسكر توة"}
+{"input": "essellem twil chwaya", "output": "السلم طويل شوية"}
+{"input": "el bit nadhif lyoum", "output": "البيت نظيف اليوم"}
+{"input": "el bit messa5 barcha", "output": "البيت موسخ برشا"}
+{"input": "eddar kbira 3lina", "output": "الدار كبيرة علينا"}
+{"input": "eddar sghira chwaya", "output": "الدار صغيرة شوية"}
+{"input": "eddar 9dima barcha", "output": "الدار قديمة برشا"}
+{"input": "eddar jdida 3allekher", "output": "الدار جديدة عالآخر"}
+{"input": "emchi 9odem chwaya", "output": "امشي قدام شوية"}
+{"input": "arja3 l wara chwaya", "output": "ارجع لورا شوية"}
+{"input": "dour limin men hneya", "output": "دور اليمين من هنايا"}
+{"input": "dour lisar men ghadi", "output": "دور اليسار من غادي"}
+{"input": "a3la chwaya bark", "output": "أعلى شوية برك"}
+{"input": "louta chwaya bark", "output": "لوطة شوية برك"}
+{"input": "od5ol men el beb", "output": "ادخل من الباب"}
+{"input": "o5rej men el bit taw", "output": "اخرج من البيت توة"}
+{"input": "estana 9oddemi", "output": "استنى قدامي"}
+{"input": "nstannak hneya", "output": "نستناك هنايا"}
+{"input": "lyoum 3andi mchewar", "output": "اليوم عندي مشوار"}
+{"input": "lyoum ma 3andich rou7", "output": "اليوم ما عنديش روح"}
+{"input": "ghodwa 3andi chghol", "output": "غدوة عندي شغل"}
+{"input": "ghodwa ma 3andich chghol", "output": "غدوة ما عنديش شغل"}
+{"input": "lbar7 kont mza3ef", "output": "البارح كنت مزعف"}
+{"input": "lbar7 kont fer7an barcha", "output": "البارح كنت فرحان برشا"}
+{"input": "lbar7 ma chrabtech ma", "output": "البارح ما شربتش ما"}
+{"input": "lbar7 ma rekedtech behi", "output": "البارح ما رقدتش باهي"}
+{"input": "sbe7ri nfi9 bekri", "output": "صبحي نفيق بكري"}
+{"input": "fil 3chiya nrawa7", "output": "في العشية نروح"}
+{"input": "fil lil norkod sra3", "output": "في الليل نرقد سريع"}
+{"input": "ba3d dhohr namchi lel dar", "output": "بعد الظهر نمشي للدار"}
+{"input": "9bal ma nor9ed n9ra", "output": "قبل ما نرقد نقرا"}
+{"input": "ba3d ma nrawa7 nerta7", "output": "بعد ما نروح نرتاح"}
+{"input": "men awel mara fhemt", "output": "من أول مرة فهمت"}
+{"input": "men 9bal kont nensa", "output": "من قبل كنت ننسى"}
+{"input": "men ba3d wallit nefhem", "output": "من بعد وليت نفهم"}
+{"input": "n7eb nkallem weld 3ammi", "output": "نحب نكلم ولد عمي"}
+{"input": "n7eb nchouf bent 3ammi", "output": "نحب نشوف بنت عمي"}
+{"input": "n7eb nzour jiranna", "output": "نحب نزور جيرانا"}
+{"input": "3ayetli kif twsel", "output": "عيطلي كيف توصل"}
+{"input": "ma tensa chay men hedha", "output": "ما تنسى شي من هذا"}
+{"input": "ma tekdhebch 3liya", "output": "ما تكذبش عليا"}
+{"input":"ena farhan barcha lyoum","output":"أنا فرحان برشا اليوم"}
+{"input":"ena za3fen chwaya taw","output":"أنا زعفان شوية توة"}
+{"input":"ena ta3eb men el khedma","output":"أنا تعبان من الخدمة"}
+{"input":"ena n7ess ro7i khir","output":"أنا نحس روحي خير"}
+{"input":"ena n7ess ro7i m9alla9","output":"أنا نحس روحي مقلق"}
+{"input":"ena n7eb nerta7 chwaya","output":"أنا نحب نرتاح شوية"}
+{"input":"ena n7eb nokhrej taw","output":"أنا نحب نخرج توة"}
+{"input":"ena n7eb nrawa7 ldar","output":"أنا نحب نروح للدار"}
+{"input":"ena n7eb noskot taw","output":"أنا نحب نسكت توة"}
+{"input":"ena n7eb nse3ed el nes","output":"أنا نحب نساعد الناس"}
+{"input":"enti mriguel lyoum","output":"إنتي مريقل اليوم"}
+{"input":"enti mrattab barcha","output":"إنتي مرتب برشا"}
+{"input":"enti m3allem fil khedma","output":"إنتي معلم في الخدمة"}
+{"input":"enti fhemtni bel behi","output":"إنتي فهمتني بالباهي"}
+{"input":"enti sma3tni lel lekher","output":"إنتي سمعتني للآخر"}
+{"input":"enti t7eb el hdou","output":"إنتي تحب الهدو"}
+{"input":"enti t7eb el system","output":"إنتي تحب السيستام"}
+{"input":"enti tkhammem barcha","output":"إنتي تخمم برشا"}
+{"input":"enti tetsare3 barcha","output":"إنتي تتسرع برشا"}
+{"input":"enti testahel kol khir","output":"إنتي تستاهل كل خير"}
+{"input":"houwa ydhak barcha","output":"هو يضحك برشا"}
+{"input":"houwa yetsaref bel hdou","output":"هو يتصرف بالهدو"}
+{"input":"houwa yefhem sra3","output":"هو يفهم سريع"}
+{"input":"houwa ya3ref chnowa ya3mel","output":"هو يعرف شنوة يعمل"}
+{"input":"houwa ye7ki bel mezyen","output":"هو يحكي بالمزيان"}
+{"input":"houwa y3ayet sra3","output":"هو يعيط سريع"}
+{"input":"houwa yestana barcha","output":"هو يستنى برشا"}
+{"input":"houwa yensa sra3","output":"هو ينسى سريع"}
+{"input":"houwa ye5dem wa7dou","output":"هو يخدم وحدو"}
+{"input":"houwa yebda bekri","output":"هو يبدا بكري"}
+{"input":"hia tefhem men awel mara","output":"هي تفهم من أول مرة"}
+{"input":"hia tehki bel hdou","output":"هي تحكي بالهدو"}
+{"input":"hia tethakker kol chay","output":"هي تتذكر كل شي"}
+{"input":"hia testa3ref mli7","output":"هي تستعرف مليح"}
+{"input":"hia tkammel lel lekher","output":"هي تكمل للآخر"}
+{"input":"hia twarri el tri9","output":"هي توري الطريق"}
+{"input":"hia tkhali kol chay mrattab","output":"هي تخلي كل شي مرتب"}
+{"input":"hia t7eb el nadhafa","output":"هي تحب النظافة"}
+{"input":"hia tji dima bekri","output":"هي تجي ديما بكري"}
+{"input":"hia tmchi men ghir klam","output":"هي تمشي من غير كلام"}
+{"input":"a7na n7ebbou net3awnou","output":"أحنا نحبو نتعاونو"}
+{"input":"a7na nefhmou ba3dhna","output":"أحنا نفهمو بعضنا"}
+{"input":"a7na net9asmou el khedma","output":"أحنا نتقاسموا الخدمة"}
+{"input":"a7na netfakrou fel nafes el chay","output":"أحنا نتفكروا في نفس الشي"}
+{"input":"a7na nekhdmou bel system","output":"أحنا نخدموا بالسيستام"}
+{"input":"a7na net3almou sra3","output":"أحنا نتعلموا سريع"}
+{"input":"a7na mazelna fehemna chwaya","output":"أحنا مازلنا فاهمنا شوية"}
+{"input":"a7na neb9aw m3a ba3dhna","output":"أحنا نبقاو مع بعضنا"}
+{"input":"a7na net7arkou bel hdou","output":"أحنا نتحركوا بالهدو"}
+{"input":"a7na netla3ou ma3 ba3dhna","output":"أحنا نطلعوا مع بعضنا"}
+{"input":"houma y7ebbou el bssata","output":"هوما يحبو البساطة"}
+{"input":"houma yekhdmou kol youm","output":"هوما يخدموا كل يوم"}
+{"input":"houma yetfakrou barcha","output":"هوما يتفكروا برشا"}
+{"input":"houma yjiw m3a el wa9t","output":"هوما يجيو مع الوقت"}
+{"input":"houma yraw7ou m3a ba3dhom","output":"هوما يروحوا مع بعضهم"}
+{"input":"houma ya3mlou jaw","output":"هوما يعملوا جو"}
+{"input":"houma ydhahkou 3al 7keya","output":"هوما يضحكوا على الحكاية"}
+{"input":"houma yet3awnou kol mara","output":"هوما يتعاونوا كل مرة"}
+{"input":"houma ykamlou bchwaya","output":"هوما يكملوا بشوية"}
+{"input":"houma yestennou fel saf","output":"هوما يستنوا في الصف"}
+{"input":"bech nbda men jdid","output":"باش نبدا من جديد"}
+{"input":"bech nkammel ba3d","output":"باش نكمل بعد"}
+{"input":"bech nchouf elli sar","output":"باش نشوف اللي صار"}
+{"input":"bech nfasserlek bel behi","output":"باش نفسرلك بالباهي"}
+{"input":"bech na3tik fekra sehla","output":"باش نعطيك فكرة سهلة"}
+{"input":"bech nes2lek sou2el sghir","output":"باش نسألك سؤال صغير"}
+{"input":"bech njaweb 3la kol chay","output":"باش نجاوب على كل شي"}
+{"input":"bech n9ollek rayi","output":"باش نقولك رأيي"}
+{"input":"bech nwarik tri9a jdida","output":"باش نوريك طريقة جديدة"}
+{"input":"bech nbadel rayi","output":"باش نبدل رأيي"}
+{"input":"bech tefhem wa7dek","output":"باش تفهم وحدك"}
+{"input":"bech tkammel sra3","output":"باش تكمل سريع"}
+{"input":"bech tensa el mawdo3","output":"باش تنسى الموضوع"}
+{"input":"bech ta3ref ba3d","output":"باش تعرف بعد"}
+{"input":"bech te7ki ma3aya","output":"باش تحكي معايا"}
+{"input":"bech temchi lel sou9","output":"باش تمشي للسوق"}
+{"input":"bech terja3 m3a el lil","output":"باش ترجع مع الليل"}
+{"input":"bech tji men bekri","output":"باش تجي من بكري"}
+{"input":"bech tokhrej wahdek","output":"باش تخرج وحدك"}
+{"input":"bech t9olli el s7i7","output":"باش تقلي الصحيح"}
+{"input":"mazel el wa9t tawil","output":"مازال الوقت طويل"}
+{"input":"mazel fama amal","output":"مازال فما أمل"}
+{"input":"mazel fama wa9t lel khedma","output":"مازال فما وقت للخدمة"}
+{"input":"mazel fama chwaya sbr","output":"مازال فما شوية صبر"}
+{"input":"mazel fama barcha klem","output":"مازال فما برشا كلام"}
+{"input":"mazel el dars ma kmelch","output":"مازال الدرس ما كملش"}
+{"input":"mazel el jawab ma wdha7ch","output":"مازال الجواب ما وضحش"}
+{"input":"mazelni nestana fik","output":"مازلني نستنى فيك"}
+{"input":"mazelni nlawwej 3la tri9","output":"مازلني نلوج على طريق"}
+{"input":"mazelni nefhem bchwaya","output":"مازلني نفهم بشوية"}
+{"input":"ba3d nos se3a nji","output":"بعد نص ساعة نجي"}
+{"input":"ba3d se3tin nrawa7","output":"بعد ساعتين نروح"}
+{"input":"ba3d nharin njiwek","output":"بعد نهارين نجيك"}
+{"input":"ba3d jom3a nbadlou","output":"بعد جمعة نبدلوا"}
+{"input":"ba3d chhar yodhhor","output":"بعد شهر يظهر"}
+{"input":"9bal nos se3a jit","output":"قبل نص ساعة جيت"}
+{"input":"9bal nharin kont hneya","output":"قبل نهارين كنت هنايا"}
+{"input":"9bal chhar ma 3raftch","output":"قبل شهر ما عرفتش"}
+{"input":"9bal el sbeh kont 9ayedh","output":"قبل الصباح كنت قايظ"}
+{"input":"9bal el lil rawa7t","output":"قبل الليل روحت"}
+{"input":"tawa el jaw behi","output":"توة الجو باهي"}
+{"input":"tawa el tri9 fergha","output":"توة الطريق فارغة"}
+{"input":"tawa el bit heni","output":"توة البيت هاني"}
+{"input":"tawa el beb ma7loul","output":"توة الباب محلول"}
+{"input":"tawa el chobbek msakker","output":"توة الشباك مسكر"}
+{"input":"tawa el meyda fargha","output":"توة الميدة فارغة"}
+{"input":"tawa el ma se5en","output":"توة الما سخون"}
+{"input":"tawa el 9ahwa wajda","output":"توة القهوة واجدة"}
+{"input":"tawa el atay 7dher","output":"توة الأتاي حاضر"}
+{"input":"tawa el akel yebda","output":"توة الأكل يبدا"}
+{"input":"lyoum nhari twil","output":"اليوم نهاري طويل"}
+{"input":"lyoum andi barcha khedma","output":"اليوم عندي برشا خدمة"}
+{"input":"lyoum andi barcha dorouf","output":"اليوم عندي برشا ظروف"}
+{"input":"lyoum n7eb el hdou","output":"اليوم نحب الهدو"}
+{"input":"lyoum ma n7eb n7ki ma3 7ad","output":"اليوم ما نحب نحكي مع حد"}
+{"input":"lyoum n7eb n9a3ed wa7di","output":"اليوم نحب نقعد وحدي"}
+{"input":"lyoum n7eb nosm3 bark","output":"اليوم نحب نسمع برك"}
+{"input":"lyoum n7eb nefhem akther","output":"اليوم نحب نفهم أكثر"}
+{"input":"lyoum n7eb nokhrej chwaya","output":"اليوم نحب نخرج شوية"}
+{"input":"lyoum n7eb nokol fil dar","output":"اليوم نحب ناكل في الدار"}
+{"input":"ghodwa nfi9 men bekri","output":"غدوة نفيق من بكري"}
+{"input":"ghodwa n7eb nbda jdida","output":"غدوة نحب نبدا جديدة"}
+{"input":"ghodwa n7eb nkammel kol chay","output":"غدوة نحب نكمل كل شي"}
+{"input":"ghodwa fama machghala","output":"غدوة فما مشغلة"}
+{"input":"ghodwa fama 9raya","output":"غدوة فما قراية"}
+{"input":"ghodwa fama khedma barcha","output":"غدوة فما خدمة برشا"}
+{"input":"ghodwa ma fama chay mohem","output":"غدوة ما فما شي مهم"}
+{"input":"ghodwa nji m3a el sbeh","output":"غدوة نجي مع الصباح"}
+{"input":"ghodwa nrawa7 m3a el 3chiya","output":"غدوة نروح مع العشية"}
+{"input":"ghodwa nrattbou kol chay","output":"غدوة نرتبوا كل شي"}
+{"input":"lbar7 t3allamt barcha","output":"البارح تعلمت برشا"}
+{"input":"lbar7 sma3t klam behi","output":"البارح سمعت كلام باهي"}
+{"input":"lbar7 choft haja 3jiba","output":"البارح شفت حاجة عجيبة"}
+{"input":"lbar7 kont hani","output":"البارح كنت هاني"}
+{"input":"lbar7 kont merta7","output":"البارح كنت مرتاح"}
+{"input":"lbar7 kont mestanes","output":"البارح كنت مستانس"}
+{"input":"lbar7 ma fhemtch kol chay","output":"البارح ما فهمتش كل شي"}
+{"input":"lbar7 ma klimt 7atta 7ad","output":"البارح ما كلمت حتى حد"}
+{"input":"lbar7 ma khrajtch","output":"البارح ما خرجتش"}
+{"input":"lbar7 rawa7t مت2akher","output":"البارح روحت متأخر"}
+{"input":"fil sbeh n7eb eskot","output":"في الصباح نحب نسكت"}
+{"input":"fil sbeh n7eb 9ahwa sghira","output":"في الصباح نحب قهوة صغيرة"}
+{"input":"fil sbeh n7eb nfi9 wa7di","output":"في الصباح نحب نفيق وحدي"}
+{"input":"fil sbeh kol chay yebda sehel","output":"في الصباح كل شي يبدا ساهل"}
+{"input":"fil sbeh el tri9 tkoun fergha","output":"في الصباح الطريق تكون فارغة"}
+{"input":"fil dhohr nji lel dar","output":"في الظهر نجي للدار"}
+{"input":"fil dhohr norta7 chwaya","output":"في الظهر نرتاح شوية"}
+{"input":"fil 3chiya el jaw yehla","output":"في العشية الجو يهلى"}
+{"input":"fil 3chiya n7eb nmchi shwaya","output":"في العشية نحب نمشي شوية"}
+{"input":"fil lil n7eb nosm3 mousi9a","output":"في الليل نحب نسمع موسيقى"}
+{"input":"fou9 el meyda fama wara9","output":"فوق الميدة فما ورق"}
+{"input":"fou9 el kursi fama mfta7","output":"فوق الكرسي فما مفتاح"}
+{"input":"fou9 el sath fama ma","output":"فوق السطح فما ما"}
+{"input":"louta el bit fama sandou9","output":"لوطة البيت فما صندوق"}
+{"input":"9oddem el dar fama sayyara","output":"قدام الدار فما سيارة"}
+{"input":"wara el dar fama jnina","output":"ورا الدار فما جنينة"}
+{"input":"7dheya el bab fama sabbat","output":"حذايا الباب فما صباط"}
+{"input":"7dhek el chobbek fama kursi","output":"حذاك الشباك فما كرسي"}
+{"input":"bin el bit wel koujina fama bab","output":"بين البيت والكوجينة فما باب"}
+{"input":"bin el meyda wel 7it fama forgha","output":"بين الميدة والحايط فما فرغة"}
+{"input":"dour limin ba3d el bab","output":"دور اليمين بعد الباب"}
+{"input":"dour lisar 9bal el chera3","output":"دور اليسار قبل الشارع"}
+{"input":"emchi lel 9oddem direct","output":"امشي للقدام ديركت"}
+{"input":"arja3 louta chwaya","output":"ارجع لوطة شوية"}
+{"input":"ta3la fou9 chwaya","output":"اطلع فوق شوية"}
+{"input":"هبet louta bchwaya","output":"اهبط لوطة بشوية"}
+{"input":"emchi sra3 ma tet2akherch","output":"امشي سريع ما تتأخرش"}
+{"input":"estana ghadi matet7arekch","output":"استنى غادي ما تتحركش"}
+{"input":"od5ol bel hdou","output":"ادخل بالهدو"}
+{"input":"o5rej besslama","output":"اخرج بالسلامة"}
+{"input":"jib el mfta7 men el bit","output":"جيب المفتاح من البيت"}
+{"input":"jib el charger men fou9","output":"جيب الشارجيور من فوق"}
+{"input":"jib el kitab men 7dhek","output":"جيب الكتاب من حذاك"}
+{"input":"jib el wara9 men fou9 el meyda","output":"جيب الورق من فوق الميدة"}
+{"input":"jib el kass el kbir","output":"جيب الكاس الكبير"}
+{"input":"jib el tasse el sghira","output":"جيب التاسة الصغيرة"}
+{"input":"jib el makla tawa","output":"جيب الماكلة توة"}
+{"input":"jib el soker mel boite","output":"جيب السكر من البواطة"}
+{"input":"jib el mel7 men el koujina","output":"جيب الملح من الكوجينة"}
+{"input":"jib el ma men el 7aneya","output":"جيب الما من الحنفية"}
+{"input":"7ott el charger hneya","output":"حط الشارجيور هنايا"}
+{"input":"7ott el kitab fi blasto","output":"حط الكتاب في بلاصتو"}
+{"input":"7ott el wara9 mrattab","output":"حط الورق مرتب"}
+{"input":"7ott el kass 3al meyda","output":"حط الكاس على الميدة"}
+{"input":"7ott el tasse 7dheya","output":"حط التاسة حذايا"}
+{"input":"7ott el makla fel thlaja","output":"حط الماكلة في الثلاجة"}
+{"input":"7ott el ma fel bouteyya","output":"حط الما في البوطية"}
+{"input":"7ott el khobz dakhil","output":"حط الخبز داخل"}
+{"input":"7ott el sabbat 9oddem el bab","output":"حط الصباط قدام الباب"}
+{"input":"7ott el mfta7 fi jibek","output":"حط المفتاح في جيبك"}
+{"input":"7ell el coffre sghir","output":"حل الكوفر الصغير"}
+{"input":"7ell el chobbek chwaya","output":"حل الشباك شوية"}
+{"input":"7ell el nour","output":"حل النور"}
+{"input":"7ell el pc taw","output":"حل البيسي توة"}
+{"input":"7ell el telifoun","output":"حل التليفون"}
+{"input":"sakkar el nour ba3d","output":"سكر النور بعد"}
+{"input":"sakkar el pc مليح","output":"سكر البيسي مليح"}
+{"input":"sakkar el coffre","output":"سكر الكوفر"}
+{"input":"sakkar el chobbek mli7","output":"سكر الشباك مليح"}
+{"input":"sakkar el telifoun chweya","output":"سكر التليفون شوية"}
+{"input":"a3tini charger a5er","output":"أعطيني شارجيور آخر"}
+{"input":"a3tini clavier nadhif","output":"أعطيني كلافيي نظيف"}
+{"input":"a3tini souris jdida","output":"أعطيني سوريس جديدة"}
+{"input":"a3tini cable twil","output":"أعطيني كابل طويل"}
+{"input":"a3tini casque sghir","output":"أعطيني كاسك صغير"}
+{"input":"a3tini tasse 9ahwa","output":"أعطيني تاسة قهوة"}
+{"input":"a3tini koursi merta7","output":"أعطيني كرسي مرتاح"}
+{"input":"a3tini forsa nfassar","output":"أعطيني فرصة نفسر"}
+{"input":"a3tini da9i9a bark","output":"أعطيني دقيقة برك"}
+{"input":"a3tini réponse sra3","output":"أعطيني ريبونس سريع"}
+{"input":"ma tlawejch barcha","output":"ما تلوجش برشا"}
+{"input":"ma tdhaya3ch el wa9t","output":"ما تضيعش الوقت"}
+{"input":"ma t9alla9ch men chay","output":"ما تقلقش من شي"}
+{"input":"ma t3ayetlech 3ali","output":"ما تعيطليش علي"}
+{"input":"ma tansa chnou 9oltlek","output":"ما تنسى شنو قلتلك"}
+{"input":"ma tekdhebch 3la rou7ek","output":"ما تكذبش على روحك"}
+{"input":"ma tkhallitch el beb ma7loul","output":"ما تخليش الباب محلول"}
+{"input":"ma tkallimch barcha","output":"ما تكلمش برشا"}
+{"input":"ma tghalletech ro7ek","output":"ما تغلطش روحك"}
+{"input":"ma tetsare3ch fil 9rar","output":"ما تتسرعش في القرار"}
+{"input":"ma najamch njaweb tawa","output":"ما نجمش نجاوب توة"}
+{"input":"ma najamch nrawa7 taw","output":"ما نجمش نروح توة"}
+{"input":"ma najamch nchouf el fichier","output":"ما نجمش نشوف الفيشي"}
+{"input":"ma najamch n7ellou","output":"ما نجمش نحلو"}
+{"input":"ma najamch nbadlou taw","output":"ما نجمش نبدلو توة"}
+{"input":"ma na3rech kifech صار","output":"ما نعرش كيفاش صار"}
+{"input":"ma na3rech win mchit","output":"ما نعرش وين مشيت"}
+{"input":"ma na3rech wa9tech rawa7","output":"ما نعرش وقتاش رواح"}
+{"input":"ma na3rech chkoun 9al hedha","output":"ما نعرش شكون قال هذا"}
+{"input":"ma na3rech chnowa yestana","output":"ما نعرش شنوة يستنى"}
+{"input":"fhemt el fekra taw","output":"فهمت الفكرة توة"}
+{"input":"fhemt chwaya bark","output":"فهمت شوية برك"}
+{"input":"fhemt bel mezyen taw","output":"فهمت بالمزيان توة"}
+{"input":"fhemt ba3d etfasser","output":"فهمت بعد التفسير"}
+{"input":"fhemt men mithal sghir","output":"فهمت من مثال صغير"}
+{"input":"sma3t sout men barra","output":"سمعت صوت من برا"}
+{"input":"sma3t klam yesser behi","output":"سمعت كلام ياسر باهي"}
+{"input":"sma3t essou2el mli7","output":"سمعت السؤال مليح"}
+{"input":"sma3t elli 9oltou","output":"سمعت اللي قلتو"}
+{"input":"sma3t kol chay lel lekher","output":"سمعت كل شي للآخر"}
+{"input":"choft el wara9 9oddemi","output":"شفت الورق قدامي"}
+{"input":"choft el klam maktoub","output":"شفت الكلام مكتوب"}
+{"input":"choft el tri9 wadh7a","output":"شفت الطريق واضحة"}
+{"input":"choft el mouchkla taw","output":"شفت المشكلة توة"}
+{"input":"choft elli yesta7a9","output":"شفت اللي يستحق"}
+{"input":"dhakkarni ba3d da9i9a","output":"ذكرني بعد دقيقة"}
+{"input":"dhakkarni bel maw3ed","output":"ذكرني بالموعد"}
+{"input":"dhakkarni bch na3melha","output":"ذكرني باش نعملها"}
+{"input":"fakkerni men ba3d","output":"فكرني من بعد"}
+{"input":"fakkerni bch nrawa7","output":"فكرني باش نروح"}
+{"input":"3awenni fel tartib","output":"عاوني في الترتيب"}
+{"input":"3awenni fel tnadhif","output":"عاونّي في التنظيف"}
+{"input":"3awenni fel 7seb","output":"عاونّي في الحساب"}
+{"input":"3awenni fel fekra","output":"عاونّي في الفكرة"}
+{"input":"3awenni fel jawab","output":"عاونّي في الجواب"}
+{"input":"fasserli bkelma sehla","output":"فسرلي بكلمة سهلة"}
+{"input":"fasserli 3lech sar haka","output":"فسرلي علاش صار هكا"}
+{"input":"fasserli min louel","output":"فسرلي من لول"}
+{"input":"warrini win el ghalta","output":"وريني وين الغلطة"}
+{"input":"warrini chnou nbadel","output":"وريني شنو نبدل"}
+{"input":"9olli rayek sra7a","output":"قلي رأيك صراحة"}
+{"input":"9olli chnowa na9es","output":"قلي شنوة ناقص"}
+{"input":"9olli chnowa behi fih","output":"قلي شنوة باهي فيه"}
+{"input":"9olli kifech nsa77a7","output":"قلي كيفاش نصحح"}
+{"input":"9olli ken fama 7al a5er","output":"قلي كان فما حل آخر"}
+
