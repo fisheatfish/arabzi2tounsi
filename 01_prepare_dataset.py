@@ -14,9 +14,9 @@ with open("data/dataset.jsonl") as f:
 random.shuffle(raw)
 
 n = len(raw)
-n_test = 10
-n_val = 11
-n_train = n - n_test - n_val  # 80
+n_test = int(n * 0.10)
+n_val = int(n * 0.10)
+n_train = n - n_test - n_val
 
 splits = {
     "train": raw[:n_train],
