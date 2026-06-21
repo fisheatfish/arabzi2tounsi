@@ -1054,4 +1054,300 @@
 {"input":"9olli chnowa behi fih","output":"قلي شنوة باهي فيه"}
 {"input":"9olli kifech nsa77a7","output":"قلي كيفاش نصحح"}
 {"input":"9olli ken fama 7al a5er","output":"قلي كان فما حل آخر"}
-
+{"input":"ena mrawa7 taw","output":"أنا مروح توة"}
+{"input":"ena mechi lel khdma","output":"أنا ماشي للخدمة"}
+{"input":"ena mechi lel 9raya","output":"أنا ماشي للقراية"}
+{"input":"ena raj3 lel dar","output":"أنا راجع للدار"}
+{"input":"ena 9a3ed fil metro","output":"أنا قاعد في المترو"}
+{"input":"ena 9a3ed fel karhba","output":"أنا قاعد في الكرهبة"}
+{"input":"ena mestani fel ma7ata","output":"أنا مستني في المحطة"}
+{"input":"ena mazel fi tri9","output":"أنا مازل في الطريق"}
+{"input":"ena wsolt tawa","output":"أنا وصلت توة"}
+{"input":"ena wsolt bekri","output":"أنا وصلت بكري"}
+{"input":"ena t2akhart chwaya","output":"أنا تأخرت شوية"}
+{"input":"ena dhrabt doura twila","output":"أنا ضربت دورة طويلة"}
+{"input":"ena taya7t el mfta7","output":"أنا طيحت المفتاح"}
+{"input":"ena l9it el mfta7","output":"أنا لقيت المفتاح"}
+{"input":"ena nseet el portable","output":"أنا نسيت البورتابل"}
+{"input":"ena l9it el portable","output":"أنا لقيت البورتابل"}
+{"input":"ena 7attit el sac fel bit","output":"أنا حطيت الساك في البيت"}
+{"input":"ena jibt el khobz","output":"أنا جبت الخبز"}
+{"input":"ena chrayet el ghalla","output":"أنا شريت الغلة"}
+{"input":"ena khallit kol chay wajed","output":"أنا خليت كل شي واجد"}
+{"input":"ena bdit nkhdem","output":"أنا بديت نخدم"}
+{"input":"ena kammelt khedmti","output":"أنا كملت خدمتي"}
+{"input":"ena bdit n9ra darsi","output":"أنا بديت نقرا درسي"}
+{"input":"ena kammelt el dars","output":"أنا كملت الدرس"}
+{"input":"ena mazel ma bditch","output":"أنا مازلت ما بديتش"}
+{"input":"ena mazel ma kammeltch","output":"أنا مازلت ما كملتش"}
+{"input":"ena ma nfi9ch fisa3","output":"أنا ما نفيقش فيسع"}
+{"input":"ena nfi9 dima bekri","output":"أنا نفيق ديما بكري"}
+{"input":"ena norkod m3a nos ellil","output":"أنا نرقد مع نص الليل"}
+{"input":"ena nfi9 m3a sbeh","output":"أنا نفيق مع الصباح"}
+{"input":"naddhef el tabla","output":"ننظف الطابلة"}
+{"input":"naddhef el bit","output":"ننظف البيت"}
+{"input":"nratteb el ferch","output":"نرتب الفرش"}
+{"input":"nratteb el closet","output":"نرتب الكلوزات"}
+{"input":"nlem el hweyej","output":"نلم الحوايج"}
+{"input":"nghassel el s7an","output":"نغسل الصحن"}
+{"input":"nghassel el kass","output":"نغسل الكاس"}
+{"input":"nmas7 el ardhiya","output":"نمسح الأرضية"}
+{"input":"n7ell el robinet","output":"نحل الروبيني"}
+{"input":"nsakker el robinet","output":"نسكر الروبيني"}
+{"input":"n7ott el saboun hneya","output":"نحط الصابون هنايا"}
+{"input":"njib el serviette","output":"نجيب السرفيات"}
+{"input":"nbadel el couvert","output":"نبدل الكوفار"}
+{"input":"n7ot el ma fel bered","output":"نحط الما في البارد"}
+{"input":"n3ammer el bouteille","output":"نعمر البوطية"}
+{"input":"nfarregh el poubelle","output":"نفرغ البوبال"}
+{"input":"nse9i ezzra3","output":"نسقي الزرع"}
+{"input":"n7ell el balcon","output":"نحل البالكون"}
+{"input":"nsakker el balcon","output":"نسكر البالكون"}
+{"input":"nbadel el draps","output":"نبدل الدرابس"}
+{"input":"njam3 el kotob","output":"نجمع الكتب"}
+{"input":"n7ot el ordi fel charge","output":"نحط الأوردي في الشارج"}
+{"input":"nsayeb el talifoun","output":"نسيب التليفون"}
+{"input":"nbadel blaset el kursi","output":"نبدل بلاصة الكرسي"}
+{"input":"n7ell el clim","output":"نحل الكليم"}
+{"input":"nsakker el clim","output":"نسكر الكليم"}
+{"input":"n7ell el chauffage","output":"نحل الشوفاج"}
+{"input":"nsakker el chauffage","output":"نسكر الشوفاج"}
+{"input":"n7ot el kaskrouna fou9 ennar","output":"نحط الكسكروتة فوق النار"}
+{"input":"n7eb nesna3 ftour khfif","output":"نحب نصنع فطور خفيف"}
+{"input":"n7eb nesna3 9ahwa 9wiya","output":"نحب نصنع قهوة قوية"}
+{"input":"n7eb nesna3 atay bn3ne3","output":"نحب نصنع أتاي بالنعناع"}
+{"input":"n7eb nakel 7aja 5fifa","output":"نحب ناكل حاجة خفيفة"}
+{"input":"n7eb nakel soupa se5na","output":"نحب ناكل صوبة سخونة"}
+{"input":"n7eb nakel salade barda","output":"نحب ناكل سلطة باردة"}
+{"input":"n7eb nakel ghalla tayba","output":"نحب ناكل غلة طيبة"}
+{"input":"n7eb nochrob ma bared","output":"نحب نشرب ما بارد"}
+{"input":"n7eb nochrob jus fraich","output":"نحب نشرب جوس فراش"}
+{"input":"n7eb nochrob 9ahwa men ghir soker","output":"نحب نشرب قهوة من غير سكر"}
+{"input":"n7eb nochrob atay bchwaya soker","output":"نحب نشرب أتاي بشوية سكر"}
+{"input":"el makla 7amdha chwaya","output":"الماكلة حامضة شوية"}
+{"input":"el makla ma7lila barcha","output":"الماكلة محلية برشا"}
+{"input":"el makla bnina 3alle5er","output":"الماكلة بنينة عالآخر"}
+{"input":"el makla n9sha mel7","output":"الماكلة ناقصها ملح"}
+{"input":"el makla fiha zit barcha","output":"الماكلة فيها زيت برشا"}
+{"input":"el makla fiha filfel barcha","output":"الماكلة فيها فلفل برشا"}
+{"input":"el 9ahwa mra","output":"القهوة مرة"}
+{"input":"el atay yesser sakker","output":"الأتاي ياسر سكر"}
+{"input":"el 7lib skhoun","output":"الحليب سخون"}
+{"input":"el 7lib bard","output":"الحليب بارد"}
+{"input":"el khobz tawej","output":"الخبز طازج"}
+{"input":"el khobz yebes","output":"الخبز يابس"}
+{"input":"el fromej dhal","output":"الفرماج ذايب"}
+{"input":"etfe7a 7amra","output":"التفاحة حمرا"}
+{"input":"el banane tayba","output":"البنانة طيبة"}
+{"input":"el ma9rouna","output":"المقرونة"}
+{"input":"el rouz mazel ma tayebch","output":"الرز مازل ما طابش"}
+{"input":"el ftor taw","output":"الفطور توة"}
+{"input":"3ayetli kif twa9ef","output":"عيطلي كيف توقف"}
+{"input":"3ayetli kif tokhrej","output":"عيطلي كيف تخرج"}
+{"input":"ab3athli message sghir","output":"ابعثلي ميساج صغير"}
+{"input":"ab3athli localisation","output":"ابعثلي لوكاليزاسيون"}
+{"input":"ab3athli taswira","output":"ابعثلي تصويرة"}
+{"input":"ab3athli el fichier","output":"ابعثلي الفيشي"}
+{"input":"ab3athli el lien","output":"ابعثلي الليان"}
+{"input":"ab3athli el adresse","output":"ابعثلي الأدراس"}
+{"input":"ab3athli el ra9em","output":"ابعثلي الرقم"}
+{"input":"ab3athli elli ktebt","output":"ابعثلي اللي كتبت"}
+{"input":"ejwebni kif tefza3","output":"اجاوبني كيف تفزع"}
+{"input":"ejwebni kif tal9a wa9t","output":"اجاوبني كيف تلقى وقت"}
+{"input":"jwebni bel hdou","output":"جاوبني بالهدو"}
+{"input":"jwebni bkelma wa7da","output":"جاوبني بكلمة وحدة"}
+{"input":"kallimni bel telifoun","output":"كلمني بالتليفون"}
+{"input":"kallimni bel message","output":"كلمني بالميساج"}
+{"input":"ma tkhallinich nestana barcha","output":"ما تخلينيش نستنى برشا"}
+{"input":"ma tnadich b sout 3ali","output":"ما تناديش بصوت عالي"}
+{"input":"ma teqta3ch el klam","output":"ما تقطعش الكلام"}
+{"input":"ma tansach tjawebni","output":"ما تنساش تجاوبني"}
+{"input":"9olli kif tousel","output":"قلي كيف توصل"}
+{"input":"9olli kif tfi9","output":"قلي كيف تفيق"}
+{"input":"9olli kif tebda","output":"قلي كيف تبدا"}
+{"input":"9olli kif tkamel","output":"قلي كيف تكمل"}
+{"input":"fakkerni n3ayyetlik","output":"فكرني نعيطلك"}
+{"input":"fakkerni nb3athlek","output":"فكرني نبعثلك"}
+{"input":"dhakkarni bel 7sab","output":"ذكرني بالحساب"}
+{"input":"dhakkarni bel chera","output":"ذكرني بالشرة"}
+{"input":"dhakkarni bel maw3ed","output":"ذكرني بالموعد"}
+{"input":"dhakkarni bel li9a","output":"ذكرني باللقاء"}
+{"input":"el dars sahel lyoum","output":"الدرس ساهل اليوم"}
+{"input":"el dars s3ib 3liya","output":"الدرس صعيب عليا"}
+{"input":"etamrin ye5ou wa9t","output":"التمرين ياخو وقت"}
+{"input":"etamrin fih ghalta","output":"التمرين فيه غلطة"}
+{"input":"el exercice yelzem tarkiz","output":"الإكزرسيس يلزم تركيز"}
+{"input":"el sou2el twil barcha","output":"السؤال طويل برشا"}
+{"input":"el sou2el mo5taser","output":"السؤال مختصر"}
+{"input":"el jawab moufassal","output":"الجواب مفصل"}
+{"input":"el jawab mo5tasar","output":"الجواب مختصر"}
+{"input":"el fehm yji bchwaya","output":"الفهم يجي بشوية"}
+{"input":"el moraja3a mohema","output":"المراجعة مهمة"}
+{"input":"el note mazel ma habtech","output":"النوتة مازلت ما هبطتش"}
+{"input":"el devoir yelzem yetsalem lyoum","output":"الدوفار يلزم يتسلم اليوم"}
+{"input":"el projet mazel fi lbedya","output":"البروجي مازل في البداية"}
+{"input":"el projet 9rib yekmel","output":"البروجي قريب يكمل"}
+{"input":"el fichier ma t7allech","output":"الفيشي ما تحلش"}
+{"input":"el fichier t7al taw","output":"الفيشي تحل توة"}
+{"input":"el programme ye5dem","output":"البروغرام يخدم"}
+{"input":"el programme ma ye5demch","output":"البروغرام ما يخدمش"}
+{"input":"el code nadhif","output":"الكود نظيف"}
+{"input":"el code fih tkrar","output":"الكود فيه تكرار"}
+{"input":"el script sahl lel fehm","output":"السكريبت ساهل للفهم"}
+{"input":"el script yest7a9 ten9i7","output":"السكريبت يستحق تنقيح"}
+{"input":"el resultats 5arjou behin","output":"الريزولتا خرجوا باهين"}
+{"input":"el test nj7","output":"التيست نجح"}
+{"input":"el test ma nj7ch","output":"التيست ما نجحش"}
+{"input":"el erreur wadh7a","output":"الإيرور واضحة"}
+{"input":"el bug sghir","output":"الباغ صغير"}
+{"input":"el bug t3abni","output":"الباغ تعبني"}
+{"input":"el solution 9riba","output":"السوليسيون قريبة"}
+{"input":"el metro m3abbi","output":"المترو معبي"}
+{"input":"el train mta5er","output":"التران متأخر"}
+{"input":"el bus wsel taw","output":"الباس وصل توة"}
+{"input":"el taxi mazel ma jawech","output":"التاكسي مازل ما جاوش"}
+{"input":"el tri9 mskker men ghadi","output":"الطريق مسكر من غادي"}
+{"input":"el tri9 ma fih 7atta 7ad","output":"الطريق ما فيه حتى حد"}
+{"input":"el parking m3abbi","output":"الباركينغ معبي"}
+{"input":"el parking fergh","output":"الباركينغ فارغ"}
+{"input":"el signal a7mar","output":"السيڨنال أحمر"}
+{"input":"el signal akhder","output":"السيڨنال أخضر"}
+{"input":"el chera3 mza7em","output":"الشارع مزاحم"}
+{"input":"el chera3 hani","output":"الشارع هاني"}
+{"input":"emchi men janeb el 7it","output":"امشي من جانب الحيط"}
+{"input":"emchi hata lel a5er","output":"امشي حتى للآخر"}
+{"input":"wa9ef 9oddem el ma7al","output":"واقف قدام المحل"}
+{"input":"wa9ef 7dheya el bab","output":"واقف حذايا الباب"}
+{"input":"esta9belni 9oddem el dar","output":"استقبلني قدام الدار"}
+{"input":"esta9belni fel ma7ata","output":"استقبلني في المحطة"}
+{"input":"netsannawek fel coin","output":"نتسناوك في الكوان"}
+{"input":"nod5ol men el jiha lo5ra","output":"ندخل من الجهة الأخرى"}
+{"input":"no5rej men el jiha lo5ra","output":"نخرج من الجهة الأخرى"}
+{"input":"nbadel tri9i taw","output":"نبدل طريقي توة"}
+{"input":"nwalli men tri9 o5ra","output":"نولي من طريق أخرى"}
+{"input":"ne5ou tri9 9sira","output":"ناخو طريق قصيرة"}
+{"input":"net3ada men ghadi","output":"نتعدى من غادي"}
+{"input":"ne9ef chwaya hneya","output":"نقف شوية هنايا"}
+{"input":"nerta7 fi nos tri9","output":"نرتاح في نص الطريق"}
+{"input":"el masafa 9riba","output":"المسافة قريبة"}
+{"input":"el masafa b3ida","output":"المسافة بعيدة"}
+{"input":"el wsol sehel","output":"الوصول ساهل"}
+{"input":"el jaw yfarra7","output":"الجو يفرح"}
+{"input":"el khbar mfarra7","output":"الخبر مفرح"}
+{"input":"el khbar yza3ef","output":"الخبر يزعف"}
+{"input":"el klam m2athar","output":"الكلام مؤثر"}
+{"input":"el mawdo3 yhemmni","output":"الموضوع يهمني"}
+{"input":"el mawdo3 ma yhemmnich","output":"الموضوع ما يهمنيش"}
+{"input":"el 9rar s3ib","output":"القرار صعيب"}
+{"input":"el 9rar s7i7","output":"القرار صحيح"}
+{"input":"el ra2y m9nou3","output":"الرأي مقنوع"}
+{"input":"el ra2y dha3if","output":"الرأي ضعيف"}
+{"input":"el style mrattab","output":"الستايل مرتب"}
+{"input":"el style basit","output":"الستايل بسيط"}
+{"input":"el ta3bir jmil","output":"التعبير جميل"}
+{"input":"el ta3bir 9wi","output":"التعبير قوي"}
+{"input":"el ta3bir mouch wadh7","output":"التعبير موش واضح"}
+{"input":"el kalem 9lil","output":"الكلام قليل"}
+{"input":"el kalem barcha","output":"الكلام برشا"}
+{"input":"el sout wate","output":"الصوت واطي"}
+{"input":"el sout 3ali","output":"الصوت عالي"}
+{"input":"edh7ek yfarra7","output":"الضحك يفرح"}
+{"input":"el sbor mta3ek kebir","output":"الصبر متاعك كبير"}
+{"input":"el sbor na9es","output":"الصبر ناقص"}
+{"input":"el tawadol mohem","output":"التواضع مهم"}
+{"input":"el tarkiz mta3i na9es","output":"التركيز متاعي ناقص"}
+{"input":"el tarkiz mta3i 9wi","output":"التركيز متاعي قوي"}
+{"input":"el denya tehla","output":"الدنيا تهلى"}
+{"input":"el denya mouch dima sehla","output":"الدنيا موش ديما سهلة"}
+{"input":"el wa9t yjri","output":"الوقت يجري"}
+{"input":"el nhar ydouz sra3","output":"النهار يدوز سريع"}
+{"input":"el lil ydouz bel hdou","output":"الليل يدوز بالهدو"}
+{"input":"fil shta n7eb nodfa","output":"في الشتا نحب الدفا"}
+{"input":"fil sif n7eb el bared","output":"في الصيف نحب البارد"}
+{"input":"fil bard nlabes kaskita","output":"في البرد نلبس كسكيتة"}
+{"input":"fil skhana n7eb ma","output":"في السخانة نحب ما"}
+{"input":"skhant ro7i mn tri9","output":"سخنت روحي من الطريق"}
+{"input":"bardet ro7i fil clim","output":"بردت روحي في الكليم"}
+{"input":"rasi youja3ni","output":"راسي يوجعني"}
+{"input":"karshi touja3ni","output":"كرشي توجعني"}
+{"input":"yeddi bardin","output":"يدي باردين"}
+{"input":"yeddi skhan","output":"يدي سخان"}
+{"input":"sa9aya t3bou","output":"ساقيا تعبو"}
+{"input":"3ini ta3ba","output":"عيني تعبة"}
+{"input":"3ini tna3es","output":"عيني تنعس"}
+{"input":"sam3i mouch behi","output":"سمعي موش باهي"}
+{"input":"souti habet","output":"صوتي هابط"}
+{"input":"souti 3la","output":"صوتي علا"}
+{"input":"fommi yebes","output":"فمي يابس"}
+{"input":"hal9i youja3ni","output":"حلقي يوجعني"}
+{"input":"n7eb sghir","output":"نحب صغير"}
+{"input":"n7eb nerta7 fil frach","output":"نحب نرتاح في الفراش"}
+{"input":"n7eb couverture zeyda","output":"نحب كوفرتورة زايدة"}
+{"input":"n7eb n7el echobbek lel hawa","output":"نحب نحل الشباك للهواء"}
+{"input":"el hawa yebred","output":"الهواء يبرد"}
+{"input":"el hawa yse5en","output":"الهواء يسخن"}
+{"input":"echchams 9wiya","output":"الشمس قوية"}
+{"input":"edhdhall merta7","output":"الظل مرتاح"}
+{"input":"eshta hbet chwaya","output":"الشتا هبطت شوية"}
+{"input":"el rih 9wiya lyoum","output":"الريح قوية اليوم"}
+{"input":"el rih habta","output":"الريح هابطة"}
+{"input":"essma mghayma barcha","output":"السما مغيمة برشا"}
+{"input":"el wifi bti","output":"الواي فاي بطي"}
+{"input":"el wifi 9wi","output":"الواي فاي قوي"}
+{"input":"el internet 9asset","output":"الإنترنت قصت"}
+{"input":"el reseau dha3if","output":"الريزو ضعيف"}
+{"input":"el battery 9rib tkamel","output":"الباتري قريب تكمل"}
+{"input":"el battery ma3abya","output":"الباتري معبية"}
+{"input":"el charge yetchad","output":"الشارج يتشد "}
+{"input":"el charge bti","output":"الشارج بطي"}
+{"input":"el ecran msakker","output":"الإكران مسكر"}
+{"input":"el ecran ma7loul","output":"الإكران محلول"}
+{"input":"el clavier ykhdem mli7","output":"الكلافيي يخدم مليح"}
+{"input":"el souris ma tekhdemch","output":"السوريس ما تخدمش"}
+{"input":"el micro ma yesma3ch","output":"الميكرو ما يسمعش"}
+{"input":"el casque merta7","output":"الكاسك مرتاح"}
+{"input":"el camera ma t7allech","output":"الكاميرا ما تحلش"}
+{"input":"el camera wadh7a","output":"الكاميرا واضحة"}
+{"input":"el son ma5rouj","output":"الصون مخرج"}
+{"input":"el notification jet taw","output":"النوتيفيكاسيون جات توة"}
+{"input":"el mail wsel","output":"المايل وصل"}
+{"input":"el mail ma wselch","output":"المايل ما وصلش"}
+{"input":"el message tba3ath","output":"الميساج تبعث"}
+{"input":"el message ma tba3thech","output":"الميساج ما تبعثش"}
+{"input":"el compte maftou7","output":"الكونت مفتوح"}
+{"input":"el session tsakkret","output":"السيسيون تسكرت"}
+{"input":"el mot de passe s7i7","output":"الموت دو باس صحيح"}
+{"input":"el mot de passe ghalet","output":"الموت دو باس غالط"}
+{"input":"el lien ye5dem","output":"الليان يخدم"}
+{"input":"el lien ma ye5demch","output":"الليان ما يخدمش"}
+{"input":"el dossier etla3","output":"الدوسي خرج"}
+{"input":"el dossier nte9el","output":"الدوسي تنقل"}
+{"input":"el 7sab s7i7","output":"الحساب صحيح"}
+{"input":"el 7sab ghalet","output":"الحساب غالط"}
+{"input":"el flous na9sin","output":"الفلوس ناقصين"}
+{"input":"el flous mawjoudin","output":"الفلوس موجودين"}
+{"input":"el soum ghali","output":"السوم غالي"}
+{"input":"el soum behi","output":"السوم باهي"}
+{"input":"el soum yelzem yetna9es","output":"السوم يلزم يتنقص"}
+{"input":"el facture wajda","output":"الفاكتور واجدة"}
+{"input":"el facture mazel","output":"الفاكتور مازالت"}
+{"input":"el ticket dha3","output":"التيكي ضاع"}
+{"input":"el ticket mawjoud","output":"التيكي موجود"}
+{"input":"el saf twil","output":"الصف طويل"}
+{"input":"el saf 9sir","output":"الصف قصير"}
+{"input":"el tour 3liya","output":"الدور عليا"}
+{"input":"el dor 3liya taw","output":"الدور عليا توة"}
+{"input":"el ma7al ma7loul","output":"المحل محلول"}
+{"input":"el ma7al msakker","output":"المحل مسكر"}
+{"input":"el baye3 merta7","output":"البيّاع مرتاح"}
+{"input":"el baye3 msta3jel","output":"البيّاع مستعجل"}
+{"input":"el client nestana fih","output":"الكليون نستنى فيه"}
+{"input":"el client ja taw","output":"الكليون جا توة"}
+{"input":"el commande wsolt","output":"الكموند وصلت"}
+{"input":"el commande ma wsoltech","output":"الكموند ما وصلتش"}
+{"input":"el paquet sghir","output":"الباكي صغير"}
+{"input":"el paquet kbir","output":"الباكي كبير"}
+{"input":"el wara9 na9es","output":"الورق ناقص"}
+{"input":"el cachet mawjoud","output":"الكاشي موجود"}
+{"input":"el imdha mawjouda","output":"الإمضاء موجودة"}
+{"input":"el imdha na9sa","output":"الإمضاء ناقصة"}
