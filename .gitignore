@@ -1,2 +1,17 @@
-.claude 
-.venv   
+# Python
+.venv
+__pycache__/
+*.pyc
+*.pyo
+
+# Modèle / outputs
+output/
+
+# Explainer — dépendances et build
+explainer/node_modules/
+explainer/dist/
+explainer/package-lock.json
+
+# Outils
+.claude
+

@@ -1,0 +1,251 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", system-ui, sans-serif;
+  --color-cream: #FFFDF5;
+  --color-ink: #0f0f0f;
+  --color-red: #FF6B6B;
+  --color-yellow: #FFD93D;
+  --color-purple: #C4B5FD;
+  --color-blue: #93C5FD;
+  --color-green: #86EFAC;
+  --color-orange: #FDB877;
+  --shadow-neo-sm: 4px 4px 0 0 #0f0f0f;
+  --shadow-neo: 6px 6px 0 0 #0f0f0f;
+  --shadow-neo-lg: 10px 10px 0 0 #0f0f0f;
+  --shadow-neo-xl: 16px 16px 0 0 #0f0f0f;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FFFDF5;
+  color: #0f0f0f;
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+/* ── Textures ── */
+.texture-grid {
+  background-image:
+    linear-gradient(rgba(15,15,15,0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15,15,15,0.06) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.texture-dots {
+  background-image: radial-gradient(#0f0f0f 1.2px, transparent 1.2px);
+  background-size: 18px 18px;
+}
+
+/* ── Neo-brutalist cards ── */
+.neo-card {
+  border: 3px solid #0f0f0f;
+  box-shadow: 6px 6px 0 0 #0f0f0f;
+  background: #fff;
+}
+
+.neo-card-sm {
+  border: 2px solid #0f0f0f;
+  box-shadow: 4px 4px 0 0 #0f0f0f;
+  background: #fff;
+}
+
+.neo-card-dark {
+  border: 3px solid #0f0f0f;
+  box-shadow: 6px 6px 0 0 #0f0f0f;
+  background: #0f0f0f;
+  color: #FFFDF5;
+}
+
+.neo-btn {
+  border: 3px solid #0f0f0f;
+  box-shadow: 4px 4px 0 0 #0f0f0f;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 100ms, box-shadow 100ms;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.neo-btn:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 0 #0f0f0f;
+}
+
+.neo-btn:active {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 0 #0f0f0f;
+}
+
+/* ── Token chips ── */
+.token-chip {
+  display: inline-flex;
+  align-items: center;
+  border: 2px solid #0f0f0f;
+  box-shadow: 3px 3px 0 0 #0f0f0f;
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-family: "Space Grotesk", monospace;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: default;
+  transition: transform 150ms, box-shadow 150ms;
+  animation: chip-pop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+
+.token-chip:hover {
+  transform: translate(-2px, -2px) rotate(-1deg);
+  box-shadow: 5px 5px 0 0 #0f0f0f;
+}
+
+@keyframes chip-pop {
+  from { transform: scale(0.5) rotate(-10deg); opacity: 0; }
+  to   { transform: scale(1)   rotate(0deg);  opacity: 1; }
+}
+
+/* ── Attention cell ── */
+.attn-cell {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #0f0f0f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 100ms, box-shadow 100ms;
+  font-family: "Space Grotesk", monospace;
+}
+
+.attn-cell:hover {
+  transform: scale(1.15);
+  box-shadow: 4px 4px 0 0 #0f0f0f;
+  z-index: 10;
+  position: relative;
+}
+
+/* ── Progress bar ── */
+#progress-bar {
+  position: fixed;
+  top: 0; left: 0;
+  height: 4px;
+  background: #0f0f0f;
+  z-index: 200;
+  transition: width 0.1s linear;
+}
+
+/* ── Reveal animations ── */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.55s ease, transform 0.55s ease;
+}
+.reveal.in-view {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ── Section base ── */
+.chapter-section {
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+/* ── Badge ── */
+.neo-badge {
+  display: inline-block;
+  border: 2px solid #0f0f0f;
+  font-size: 0.7rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  background: #FFD93D;
+}
+
+/* ── Input ── */
+.neo-input {
+  border: 3px solid #0f0f0f;
+  box-shadow: 4px 4px 0 0 #0f0f0f;
+  background: #fff;
+  font-family: "Space Grotesk", monospace;
+  font-weight: 700;
+  outline: none;
+  padding: 10px 14px;
+  width: 100%;
+  font-size: 1rem;
+  transition: box-shadow 150ms;
+}
+
+.neo-input:focus {
+  box-shadow: 6px 6px 0 0 #0f0f0f;
+}
+
+/* ── Hollow text ── */
+.text-hollow {
+  -webkit-text-stroke: 3px #0f0f0f;
+  color: transparent;
+}
+
+/* ── Nav ── */
+nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  background: #FFFDF5;
+  border-bottom: 3px solid #0f0f0f;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 24px;
+}
+
+.nav-link {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: border-color 150ms, background 150ms;
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  border-color: #0f0f0f;
+  background: #FFD93D;
+  box-shadow: 2px 2px 0 0 #0f0f0f;
+}
+
+/* ── Canvas ── */
+canvas {
+  display: block;
+}
+
+/* ── Arabic text direction ── */
+.arabic {
+  direction: rtl;
+  font-size: 1.3em;
+}
+
+/* ── Loss canvas wrapper ── */
+.loss-wrap {
+  border: 3px solid #0f0f0f;
+  box-shadow: 6px 6px 0 0 #0f0f0f;
+  background: #0f0f0f;
+  overflow: hidden;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #FFFDF5; }
+::-webkit-scrollbar-thumb { background: #0f0f0f; }
